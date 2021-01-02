@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Objects and Classes More Exercises\01. Company Roster\bin\Debug\netcoreapp3.1\01. Company Roster.exe
+D:\C# Fundamentals\Objects and Classes More Exercises\01. Company Roster\bin\Debug\netcoreapp3.1\01. Company Roster.deps.json
+D:\C# Fundamentals\Objects and Classes More Exercises\01. Company Roster\bin\Debug\netcoreapp3.1\01. Company Roster.runtimeconfig.json
+D:\C# Fundamentals\Objects and Classes More Exercises\01. Company Roster\bin\Debug\netcoreapp3.1\01. Company Roster.runtimeconfig.dev.json
+D:\C# Fundamentals\Objects and Classes More Exercises\01. Company Roster\bin\Debug\netcoreapp3.1\01. Company Roster.dll
+D:\C# Fundamentals\Objects and Classes More Exercises\01. Company Roster\bin\Debug\netcoreapp3.1\01. Company Roster.pdb
+D:\C# Fundamentals\Objects and Classes More Exercises\01. Company Roster\obj\Debug\netcoreapp3.1\01. Company Roster.csprojAssemblyReference.cache
+D:\C# Fundamentals\Objects and Classes More Exercises\01. Company Roster\obj\Debug\netcoreapp3.1\01. Company Roster.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Objects and Classes More Exercises\01. Company Roster\obj\Debug\netcoreapp3.1\01. Company Roster.AssemblyInfo.cs
+D:\C# Fundamentals\Objects and Classes More Exercises\01. Company Roster\obj\Debug\netcoreapp3.1\01. Company Roster.dll
+D:\C# Fundamentals\Objects and Classes More Exercises\01. Company Roster\obj\Debug\netcoreapp3.1\01. Company Roster.pdb

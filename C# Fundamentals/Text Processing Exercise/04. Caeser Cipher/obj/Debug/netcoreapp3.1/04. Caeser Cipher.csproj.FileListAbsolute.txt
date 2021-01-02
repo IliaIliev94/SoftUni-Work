@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Text Processing Exercise\04. Caeser Cipher\bin\Debug\netcoreapp3.1\04. Caeser Cipher.exe
+D:\C# Fundamentals\Text Processing Exercise\04. Caeser Cipher\bin\Debug\netcoreapp3.1\04. Caeser Cipher.deps.json
+D:\C# Fundamentals\Text Processing Exercise\04. Caeser Cipher\bin\Debug\netcoreapp3.1\04. Caeser Cipher.runtimeconfig.json
+D:\C# Fundamentals\Text Processing Exercise\04. Caeser Cipher\bin\Debug\netcoreapp3.1\04. Caeser Cipher.runtimeconfig.dev.json
+D:\C# Fundamentals\Text Processing Exercise\04. Caeser Cipher\bin\Debug\netcoreapp3.1\04. Caeser Cipher.dll
+D:\C# Fundamentals\Text Processing Exercise\04. Caeser Cipher\bin\Debug\netcoreapp3.1\04. Caeser Cipher.pdb
+D:\C# Fundamentals\Text Processing Exercise\04. Caeser Cipher\obj\Debug\netcoreapp3.1\04. Caeser Cipher.csprojAssemblyReference.cache
+D:\C# Fundamentals\Text Processing Exercise\04. Caeser Cipher\obj\Debug\netcoreapp3.1\04. Caeser Cipher.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Text Processing Exercise\04. Caeser Cipher\obj\Debug\netcoreapp3.1\04. Caeser Cipher.AssemblyInfo.cs
+D:\C# Fundamentals\Text Processing Exercise\04. Caeser Cipher\obj\Debug\netcoreapp3.1\04. Caeser Cipher.dll
+D:\C# Fundamentals\Text Processing Exercise\04. Caeser Cipher\obj\Debug\netcoreapp3.1\04. Caeser Cipher.pdb

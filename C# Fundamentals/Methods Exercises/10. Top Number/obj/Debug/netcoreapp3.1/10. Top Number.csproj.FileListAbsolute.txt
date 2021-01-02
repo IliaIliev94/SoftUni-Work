@@ -1,0 +1,10 @@
+D:\C# Fundamentals\Methods Exercises\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.exe
+D:\C# Fundamentals\Methods Exercises\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.deps.json
+D:\C# Fundamentals\Methods Exercises\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.runtimeconfig.json
+D:\C# Fundamentals\Methods Exercises\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.runtimeconfig.dev.json
+D:\C# Fundamentals\Methods Exercises\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.dll
+D:\C# Fundamentals\Methods Exercises\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.pdb
+D:\C# Fundamentals\Methods Exercises\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Methods Exercises\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.AssemblyInfo.cs
+D:\C# Fundamentals\Methods Exercises\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.dll
+D:\C# Fundamentals\Methods Exercises\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.pdb

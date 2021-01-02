@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Arrays More Exercises\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.csprojAssemblyReference.cache
+D:\C# Fundamentals\Arrays More Exercises\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Arrays More Exercises\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.AssemblyInfo.cs
+D:\C# Fundamentals\Arrays More Exercises\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.exe
+D:\C# Fundamentals\Arrays More Exercises\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.deps.json
+D:\C# Fundamentals\Arrays More Exercises\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.runtimeconfig.json
+D:\C# Fundamentals\Arrays More Exercises\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.runtimeconfig.dev.json
+D:\C# Fundamentals\Arrays More Exercises\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.dll
+D:\C# Fundamentals\Arrays More Exercises\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.pdb
+D:\C# Fundamentals\Arrays More Exercises\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.dll
+D:\C# Fundamentals\Arrays More Exercises\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.pdb

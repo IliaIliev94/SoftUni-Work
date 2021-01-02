@@ -1,0 +1,10 @@
+D:\C# Fundamentals\Methods Exercises\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.exe
+D:\C# Fundamentals\Methods Exercises\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.deps.json
+D:\C# Fundamentals\Methods Exercises\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.runtimeconfig.json
+D:\C# Fundamentals\Methods Exercises\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.runtimeconfig.dev.json
+D:\C# Fundamentals\Methods Exercises\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.dll
+D:\C# Fundamentals\Methods Exercises\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.pdb
+D:\C# Fundamentals\Methods Exercises\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Methods Exercises\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.AssemblyInfo.cs
+D:\C# Fundamentals\Methods Exercises\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.dll
+D:\C# Fundamentals\Methods Exercises\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.pdb

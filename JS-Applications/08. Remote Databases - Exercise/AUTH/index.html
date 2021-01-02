@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<form action="">
+    <div class="container">
+        <label for="uname"><b>Email</b></label>
+        <input type="text" placeholder="Enter Username" name="uname" id="register-email" required>
+
+        <label for="psw"><b>Password</b></label>
+        <input type="password" placeholder="Enter Password" name="psw" id="register-password" required>
+
+        <button type="submit" id="register">Register</button>
+    </div>
+</form>
+
+<form action="/login.html" id="login">
+    <div class="container">
+        <label for="uname"><b>Email</b></label>
+        <input type="text" placeholder="Enter Username" name="uname" id="login-email" required>
+
+        <label for="psw"><b>Password</b></label>
+        <input type="password" placeholder="Enter Password" name="psw" id="login-password" required>
+
+        <button type="submit">Login</button>
+    </div>
+</form>
+
+<div id="welcome">Hello</div>
+<button id="log-out">Log out</button>
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/8.0.2/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/8.0.2/firebase-analytics.js"></script>
+
+<script src="https://www.gstatic.com/firebasejs/8.0.1/firebase-auth.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.0.1/firebase-firestore.js"></script>
+</body>
+
+
+<script src="index.js"></script>
+</body>
+</html>

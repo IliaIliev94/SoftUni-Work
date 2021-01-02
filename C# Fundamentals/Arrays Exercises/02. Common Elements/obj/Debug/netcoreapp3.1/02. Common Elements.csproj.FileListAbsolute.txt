@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Arrays Exercises\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.exe
+D:\C# Fundamentals\Arrays Exercises\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.deps.json
+D:\C# Fundamentals\Arrays Exercises\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.runtimeconfig.json
+D:\C# Fundamentals\Arrays Exercises\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.runtimeconfig.dev.json
+D:\C# Fundamentals\Arrays Exercises\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.dll
+D:\C# Fundamentals\Arrays Exercises\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.pdb
+D:\C# Fundamentals\Arrays Exercises\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.csprojAssemblyReference.cache
+D:\C# Fundamentals\Arrays Exercises\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Arrays Exercises\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.AssemblyInfo.cs
+D:\C# Fundamentals\Arrays Exercises\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.dll
+D:\C# Fundamentals\Arrays Exercises\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.pdb

@@ -1,0 +1,27 @@
+Computer with id 4 added successfully.
+Computer type is invalid.
+Id can not be less or equal than 0.
+Computer with this id already exists.
+Price can not be less or equal than 0.
+Component CentralProcessingUnit with id 3 added successfully in computer with id 4.
+Computer with this id does not exist.
+Component with this id already exists.
+Component type is invalid.
+Id can not be less or equal than 0.
+Id can not be less or equal than 0.
+Price can not be less or equal than 0.
+Id can not be less or equal than 0.
+Component SolidStateDrive with id 13 added successfully in computer with id 4.
+Component Motherboard does not exist in Laptop with Id 4.
+Computer with this id does not exist.
+Successfully removed SolidStateDrive with id 13.
+Computer with this id does not exist.
+Overall Performance: 112.50. Price: 2300.00 - Laptop: Asus ROG (Id: 4)
+ Components (1):
+  Overall Performance: 102.50. Price: 1600.00 - CentralProcessingUnit: Intel Xeon (Id: 3) Generation: 10
+ Peripherals (0); Average Overall Performance (0.00):
+Overall Performance: 112.50. Price: 2300.00 - Laptop: Asus ROG (Id: 4)
+ Components (1):
+  Overall Performance: 102.50. Price: 1600.00 - CentralProcessingUnit: Intel Xeon (Id: 3) Generation: 10
+ Peripherals (0); Average Overall Performance (0.00):
+Computer with this id does not exist.

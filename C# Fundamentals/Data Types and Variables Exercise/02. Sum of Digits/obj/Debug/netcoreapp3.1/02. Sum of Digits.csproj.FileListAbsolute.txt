@@ -1,0 +1,10 @@
+D:\C# Fundamentals\Data Types and Variables Exercise\02. Sum of Digits\bin\Debug\netcoreapp3.1\02. Sum of Digits.exe
+D:\C# Fundamentals\Data Types and Variables Exercise\02. Sum of Digits\bin\Debug\netcoreapp3.1\02. Sum of Digits.deps.json
+D:\C# Fundamentals\Data Types and Variables Exercise\02. Sum of Digits\bin\Debug\netcoreapp3.1\02. Sum of Digits.runtimeconfig.json
+D:\C# Fundamentals\Data Types and Variables Exercise\02. Sum of Digits\bin\Debug\netcoreapp3.1\02. Sum of Digits.runtimeconfig.dev.json
+D:\C# Fundamentals\Data Types and Variables Exercise\02. Sum of Digits\bin\Debug\netcoreapp3.1\02. Sum of Digits.dll
+D:\C# Fundamentals\Data Types and Variables Exercise\02. Sum of Digits\bin\Debug\netcoreapp3.1\02. Sum of Digits.pdb
+D:\C# Fundamentals\Data Types and Variables Exercise\02. Sum of Digits\obj\Debug\netcoreapp3.1\02. Sum of Digits.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Data Types and Variables Exercise\02. Sum of Digits\obj\Debug\netcoreapp3.1\02. Sum of Digits.AssemblyInfo.cs
+D:\C# Fundamentals\Data Types and Variables Exercise\02. Sum of Digits\obj\Debug\netcoreapp3.1\02. Sum of Digits.dll
+D:\C# Fundamentals\Data Types and Variables Exercise\02. Sum of Digits\obj\Debug\netcoreapp3.1\02. Sum of Digits.pdb

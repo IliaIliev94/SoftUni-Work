@@ -1,0 +1,10 @@
+D:\C# Fundamentals\Final Exam\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.exe
+D:\C# Fundamentals\Final Exam\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.deps.json
+D:\C# Fundamentals\Final Exam\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.runtimeconfig.json
+D:\C# Fundamentals\Final Exam\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.runtimeconfig.dev.json
+D:\C# Fundamentals\Final Exam\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.dll
+D:\C# Fundamentals\Final Exam\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.pdb
+D:\C# Fundamentals\Final Exam\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Final Exam\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.AssemblyInfo.cs
+D:\C# Fundamentals\Final Exam\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.dll
+D:\C# Fundamentals\Final Exam\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.pdb

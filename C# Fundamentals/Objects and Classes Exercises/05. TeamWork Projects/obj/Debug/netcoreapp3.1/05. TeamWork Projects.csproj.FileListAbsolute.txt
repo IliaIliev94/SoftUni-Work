@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Objects and Classes Exercises\05. TeamWork Projects\bin\Debug\netcoreapp3.1\05. TeamWork Projects.exe
+D:\C# Fundamentals\Objects and Classes Exercises\05. TeamWork Projects\bin\Debug\netcoreapp3.1\05. TeamWork Projects.deps.json
+D:\C# Fundamentals\Objects and Classes Exercises\05. TeamWork Projects\bin\Debug\netcoreapp3.1\05. TeamWork Projects.runtimeconfig.json
+D:\C# Fundamentals\Objects and Classes Exercises\05. TeamWork Projects\bin\Debug\netcoreapp3.1\05. TeamWork Projects.runtimeconfig.dev.json
+D:\C# Fundamentals\Objects and Classes Exercises\05. TeamWork Projects\bin\Debug\netcoreapp3.1\05. TeamWork Projects.dll
+D:\C# Fundamentals\Objects and Classes Exercises\05. TeamWork Projects\bin\Debug\netcoreapp3.1\05. TeamWork Projects.pdb
+D:\C# Fundamentals\Objects and Classes Exercises\05. TeamWork Projects\obj\Debug\netcoreapp3.1\05. TeamWork Projects.csprojAssemblyReference.cache
+D:\C# Fundamentals\Objects and Classes Exercises\05. TeamWork Projects\obj\Debug\netcoreapp3.1\05. TeamWork Projects.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Objects and Classes Exercises\05. TeamWork Projects\obj\Debug\netcoreapp3.1\05. TeamWork Projects.AssemblyInfo.cs
+D:\C# Fundamentals\Objects and Classes Exercises\05. TeamWork Projects\obj\Debug\netcoreapp3.1\05. TeamWork Projects.dll
+D:\C# Fundamentals\Objects and Classes Exercises\05. TeamWork Projects\obj\Debug\netcoreapp3.1\05. TeamWork Projects.pdb

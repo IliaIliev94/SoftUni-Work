@@ -1,0 +1,10 @@
+D:\C# Fundamentals\Data Types and Variables\09. Town Info\bin\Debug\netcoreapp3.1\09. Town Info.exe
+D:\C# Fundamentals\Data Types and Variables\09. Town Info\bin\Debug\netcoreapp3.1\09. Town Info.deps.json
+D:\C# Fundamentals\Data Types and Variables\09. Town Info\bin\Debug\netcoreapp3.1\09. Town Info.runtimeconfig.json
+D:\C# Fundamentals\Data Types and Variables\09. Town Info\bin\Debug\netcoreapp3.1\09. Town Info.runtimeconfig.dev.json
+D:\C# Fundamentals\Data Types and Variables\09. Town Info\bin\Debug\netcoreapp3.1\09. Town Info.dll
+D:\C# Fundamentals\Data Types and Variables\09. Town Info\bin\Debug\netcoreapp3.1\09. Town Info.pdb
+D:\C# Fundamentals\Data Types and Variables\09. Town Info\obj\Debug\netcoreapp3.1\09. Town Info.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Data Types and Variables\09. Town Info\obj\Debug\netcoreapp3.1\09. Town Info.AssemblyInfo.cs
+D:\C# Fundamentals\Data Types and Variables\09. Town Info\obj\Debug\netcoreapp3.1\09. Town Info.dll
+D:\C# Fundamentals\Data Types and Variables\09. Town Info\obj\Debug\netcoreapp3.1\09. Town Info.pdb

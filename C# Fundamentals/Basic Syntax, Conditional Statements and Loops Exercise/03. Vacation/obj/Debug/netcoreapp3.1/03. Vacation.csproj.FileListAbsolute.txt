@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.exe
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.deps.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.dev.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.pdb
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.csprojAssemblyReference.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfo.cs
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.pdb

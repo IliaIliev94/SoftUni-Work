@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Data Types and Variables More Exercises\07. Decrypting Message\bin\Debug\netcoreapp3.1\07. Decrypting Message.exe
+D:\C# Fundamentals\Data Types and Variables More Exercises\07. Decrypting Message\bin\Debug\netcoreapp3.1\07. Decrypting Message.deps.json
+D:\C# Fundamentals\Data Types and Variables More Exercises\07. Decrypting Message\bin\Debug\netcoreapp3.1\07. Decrypting Message.runtimeconfig.json
+D:\C# Fundamentals\Data Types and Variables More Exercises\07. Decrypting Message\bin\Debug\netcoreapp3.1\07. Decrypting Message.runtimeconfig.dev.json
+D:\C# Fundamentals\Data Types and Variables More Exercises\07. Decrypting Message\bin\Debug\netcoreapp3.1\07. Decrypting Message.dll
+D:\C# Fundamentals\Data Types and Variables More Exercises\07. Decrypting Message\bin\Debug\netcoreapp3.1\07. Decrypting Message.pdb
+D:\C# Fundamentals\Data Types and Variables More Exercises\07. Decrypting Message\obj\Debug\netcoreapp3.1\07. Decrypting Message.csprojAssemblyReference.cache
+D:\C# Fundamentals\Data Types and Variables More Exercises\07. Decrypting Message\obj\Debug\netcoreapp3.1\07. Decrypting Message.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Data Types and Variables More Exercises\07. Decrypting Message\obj\Debug\netcoreapp3.1\07. Decrypting Message.AssemblyInfo.cs
+D:\C# Fundamentals\Data Types and Variables More Exercises\07. Decrypting Message\obj\Debug\netcoreapp3.1\07. Decrypting Message.dll
+D:\C# Fundamentals\Data Types and Variables More Exercises\07. Decrypting Message\obj\Debug\netcoreapp3.1\07. Decrypting Message.pdb

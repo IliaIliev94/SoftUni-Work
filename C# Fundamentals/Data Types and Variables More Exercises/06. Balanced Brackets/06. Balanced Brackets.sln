@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Balanced Brackets", "06. Balanced Brackets.csproj", "{A398E112-8F88-422F-B436-7CA46DF24DED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A398E112-8F88-422F-B436-7CA46DF24DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A398E112-8F88-422F-B436-7CA46DF24DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A398E112-8F88-422F-B436-7CA46DF24DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A398E112-8F88-422F-B436-7CA46DF24DED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {937C7A26-CF23-47D8-9B09-BF32E53F20F8}
+	EndGlobalSection
+EndGlobal

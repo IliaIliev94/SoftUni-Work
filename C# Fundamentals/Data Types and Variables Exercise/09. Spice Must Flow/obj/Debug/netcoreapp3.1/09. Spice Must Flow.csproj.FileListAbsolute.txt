@@ -1,0 +1,10 @@
+D:\C# Fundamentals\Data Types and Variables Exercise\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.exe
+D:\C# Fundamentals\Data Types and Variables Exercise\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.deps.json
+D:\C# Fundamentals\Data Types and Variables Exercise\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.runtimeconfig.json
+D:\C# Fundamentals\Data Types and Variables Exercise\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.runtimeconfig.dev.json
+D:\C# Fundamentals\Data Types and Variables Exercise\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.dll
+D:\C# Fundamentals\Data Types and Variables Exercise\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.pdb
+D:\C# Fundamentals\Data Types and Variables Exercise\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Data Types and Variables Exercise\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.AssemblyInfo.cs
+D:\C# Fundamentals\Data Types and Variables Exercise\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.dll
+D:\C# Fundamentals\Data Types and Variables Exercise\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.pdb

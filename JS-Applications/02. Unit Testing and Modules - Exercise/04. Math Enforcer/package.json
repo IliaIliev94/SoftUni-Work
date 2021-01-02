@@ -1,0 +1,8 @@
+{
+  "name": "04. Math Enforcer",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}

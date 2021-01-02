@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Arrays Lab\06. Sum and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Sum and Odd Subtraction.exe
+D:\C# Fundamentals\Arrays Lab\06. Sum and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Sum and Odd Subtraction.deps.json
+D:\C# Fundamentals\Arrays Lab\06. Sum and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Sum and Odd Subtraction.runtimeconfig.json
+D:\C# Fundamentals\Arrays Lab\06. Sum and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Sum and Odd Subtraction.runtimeconfig.dev.json
+D:\C# Fundamentals\Arrays Lab\06. Sum and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Sum and Odd Subtraction.dll
+D:\C# Fundamentals\Arrays Lab\06. Sum and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Sum and Odd Subtraction.pdb
+D:\C# Fundamentals\Arrays Lab\06. Sum and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Sum and Odd Subtraction.csprojAssemblyReference.cache
+D:\C# Fundamentals\Arrays Lab\06. Sum and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Sum and Odd Subtraction.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Arrays Lab\06. Sum and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Sum and Odd Subtraction.AssemblyInfo.cs
+D:\C# Fundamentals\Arrays Lab\06. Sum and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Sum and Odd Subtraction.dll
+D:\C# Fundamentals\Arrays Lab\06. Sum and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Sum and Odd Subtraction.pdb

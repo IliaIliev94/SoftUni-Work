@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Associative Arrays Exercises\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.exe
+D:\C# Fundamentals\Associative Arrays Exercises\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.deps.json
+D:\C# Fundamentals\Associative Arrays Exercises\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.runtimeconfig.json
+D:\C# Fundamentals\Associative Arrays Exercises\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.runtimeconfig.dev.json
+D:\C# Fundamentals\Associative Arrays Exercises\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.dll
+D:\C# Fundamentals\Associative Arrays Exercises\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.pdb
+D:\C# Fundamentals\Associative Arrays Exercises\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.csprojAssemblyReference.cache
+D:\C# Fundamentals\Associative Arrays Exercises\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Associative Arrays Exercises\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.AssemblyInfo.cs
+D:\C# Fundamentals\Associative Arrays Exercises\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.dll
+D:\C# Fundamentals\Associative Arrays Exercises\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Magic Sum", "8. Magic Sum.csproj", "{C760337A-66AD-49B2-8831-37CC431F3643}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C760337A-66AD-49B2-8831-37CC431F3643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C760337A-66AD-49B2-8831-37CC431F3643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C760337A-66AD-49B2-8831-37CC431F3643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C760337A-66AD-49B2-8831-37CC431F3643}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A46500E9-5D24-4C11-826F-9EBCFA5A49AF}
+	EndGlobalSection
+EndGlobal

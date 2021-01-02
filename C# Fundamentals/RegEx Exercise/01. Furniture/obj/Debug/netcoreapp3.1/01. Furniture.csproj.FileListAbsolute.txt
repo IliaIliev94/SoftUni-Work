@@ -1,0 +1,11 @@
+D:\C# Fundamentals\RegEx Exercise\01. Furniture\bin\Debug\netcoreapp3.1\01. Furniture.exe
+D:\C# Fundamentals\RegEx Exercise\01. Furniture\bin\Debug\netcoreapp3.1\01. Furniture.deps.json
+D:\C# Fundamentals\RegEx Exercise\01. Furniture\bin\Debug\netcoreapp3.1\01. Furniture.runtimeconfig.json
+D:\C# Fundamentals\RegEx Exercise\01. Furniture\bin\Debug\netcoreapp3.1\01. Furniture.runtimeconfig.dev.json
+D:\C# Fundamentals\RegEx Exercise\01. Furniture\bin\Debug\netcoreapp3.1\01. Furniture.dll
+D:\C# Fundamentals\RegEx Exercise\01. Furniture\bin\Debug\netcoreapp3.1\01. Furniture.pdb
+D:\C# Fundamentals\RegEx Exercise\01. Furniture\obj\Debug\netcoreapp3.1\01. Furniture.csprojAssemblyReference.cache
+D:\C# Fundamentals\RegEx Exercise\01. Furniture\obj\Debug\netcoreapp3.1\01. Furniture.AssemblyInfoInputs.cache
+D:\C# Fundamentals\RegEx Exercise\01. Furniture\obj\Debug\netcoreapp3.1\01. Furniture.AssemblyInfo.cs
+D:\C# Fundamentals\RegEx Exercise\01. Furniture\obj\Debug\netcoreapp3.1\01. Furniture.dll
+D:\C# Fundamentals\RegEx Exercise\01. Furniture\obj\Debug\netcoreapp3.1\01. Furniture.pdb

@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Arrays Exercises\6. Equal Sum\bin\Debug\netcoreapp3.1\6. Equal Sum.exe
+D:\C# Fundamentals\Arrays Exercises\6. Equal Sum\bin\Debug\netcoreapp3.1\6. Equal Sum.deps.json
+D:\C# Fundamentals\Arrays Exercises\6. Equal Sum\bin\Debug\netcoreapp3.1\6. Equal Sum.runtimeconfig.json
+D:\C# Fundamentals\Arrays Exercises\6. Equal Sum\bin\Debug\netcoreapp3.1\6. Equal Sum.runtimeconfig.dev.json
+D:\C# Fundamentals\Arrays Exercises\6. Equal Sum\bin\Debug\netcoreapp3.1\6. Equal Sum.dll
+D:\C# Fundamentals\Arrays Exercises\6. Equal Sum\bin\Debug\netcoreapp3.1\6. Equal Sum.pdb
+D:\C# Fundamentals\Arrays Exercises\6. Equal Sum\obj\Debug\netcoreapp3.1\6. Equal Sum.csprojAssemblyReference.cache
+D:\C# Fundamentals\Arrays Exercises\6. Equal Sum\obj\Debug\netcoreapp3.1\6. Equal Sum.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Arrays Exercises\6. Equal Sum\obj\Debug\netcoreapp3.1\6. Equal Sum.AssemblyInfo.cs
+D:\C# Fundamentals\Arrays Exercises\6. Equal Sum\obj\Debug\netcoreapp3.1\6. Equal Sum.dll
+D:\C# Fundamentals\Arrays Exercises\6. Equal Sum\obj\Debug\netcoreapp3.1\6. Equal Sum.pdb

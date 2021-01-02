@@ -1,0 +1,22 @@
+
+Gosho joined the party!
+Ivan joined the party!
+Invalid Operation: Cannot attack self!
+Invalid Operation: No items left in pool!
+Parameter Error: Invalid item "InvalidItem"!
+HealthPotion added to pool.
+Invalid Operation: Bag is empty!
+Invalid Operation: Bag is empty!
+Parameter Error: Character InvalidCharacter not found!
+Invalid Operation: Cannot attack self!
+Parameter Error: Character Pesho not found!
+Parameter Error: Character Pesho not found!
+Parameter Error: Character A not found!
+Ivan attacks Gosho for 40 hit points! Gosho has 100/100 HP and 10/50 AP left!
+Ivan attacks Gosho for 40 hit points! Gosho has 70/100 HP and 0/50 AP left!
+Ivan attacks Gosho for 40 hit points! Gosho has 30/100 HP and 0/50 AP left!
+Ivan attacks Gosho for 40 hit points! Gosho has 0/100 HP and 0/50 AP left!
+Gosho is dead!
+Final stats:
+Ivan - HP: 100/100, AP: 50/50, Status: Alive
+Gosho - HP: 0/100, AP: 0/50, Status: Dead

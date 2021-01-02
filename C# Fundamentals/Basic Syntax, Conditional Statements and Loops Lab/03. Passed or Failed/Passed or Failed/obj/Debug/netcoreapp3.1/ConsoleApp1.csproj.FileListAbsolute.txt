@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\03. Passed or Failed\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\03. Passed or Failed\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\03. Passed or Failed\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\03. Passed or Failed\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\03. Passed or Failed\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\03. Passed or Failed\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\03. Passed or Failed\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\03. Passed or Failed\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\03. Passed or Failed\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\03. Passed or Failed\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\03. Passed or Failed\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb

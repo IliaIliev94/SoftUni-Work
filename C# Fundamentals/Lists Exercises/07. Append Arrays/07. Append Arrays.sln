@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Append Arrays", "07. Append Arrays.csproj", "{2CC44252-0393-4363-ADE5-AB9FEBB1C69F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CC44252-0393-4363-ADE5-AB9FEBB1C69F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC44252-0393-4363-ADE5-AB9FEBB1C69F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC44252-0393-4363-ADE5-AB9FEBB1C69F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC44252-0393-4363-ADE5-AB9FEBB1C69F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC17DCA7-1578-40E7-9157-8C84E16F3FD3}
+	EndGlobalSection
+EndGlobal

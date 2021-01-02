@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Methods More Exercises\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.exe
+D:\C# Fundamentals\Methods More Exercises\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.deps.json
+D:\C# Fundamentals\Methods More Exercises\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.runtimeconfig.json
+D:\C# Fundamentals\Methods More Exercises\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.runtimeconfig.dev.json
+D:\C# Fundamentals\Methods More Exercises\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.dll
+D:\C# Fundamentals\Methods More Exercises\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.pdb
+D:\C# Fundamentals\Methods More Exercises\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.csprojAssemblyReference.cache
+D:\C# Fundamentals\Methods More Exercises\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Methods More Exercises\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.AssemblyInfo.cs
+D:\C# Fundamentals\Methods More Exercises\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.dll
+D:\C# Fundamentals\Methods More Exercises\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.pdb

@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Objects and Classes Exercises\03. Articles 2.0\bin\Debug\netcoreapp3.1\03. Articles 2.0.exe
+D:\C# Fundamentals\Objects and Classes Exercises\03. Articles 2.0\bin\Debug\netcoreapp3.1\03. Articles 2.0.deps.json
+D:\C# Fundamentals\Objects and Classes Exercises\03. Articles 2.0\bin\Debug\netcoreapp3.1\03. Articles 2.0.runtimeconfig.json
+D:\C# Fundamentals\Objects and Classes Exercises\03. Articles 2.0\bin\Debug\netcoreapp3.1\03. Articles 2.0.runtimeconfig.dev.json
+D:\C# Fundamentals\Objects and Classes Exercises\03. Articles 2.0\bin\Debug\netcoreapp3.1\03. Articles 2.0.dll
+D:\C# Fundamentals\Objects and Classes Exercises\03. Articles 2.0\bin\Debug\netcoreapp3.1\03. Articles 2.0.pdb
+D:\C# Fundamentals\Objects and Classes Exercises\03. Articles 2.0\obj\Debug\netcoreapp3.1\03. Articles 2.0.csprojAssemblyReference.cache
+D:\C# Fundamentals\Objects and Classes Exercises\03. Articles 2.0\obj\Debug\netcoreapp3.1\03. Articles 2.0.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Objects and Classes Exercises\03. Articles 2.0\obj\Debug\netcoreapp3.1\03. Articles 2.0.AssemblyInfo.cs
+D:\C# Fundamentals\Objects and Classes Exercises\03. Articles 2.0\obj\Debug\netcoreapp3.1\03. Articles 2.0.dll
+D:\C# Fundamentals\Objects and Classes Exercises\03. Articles 2.0\obj\Debug\netcoreapp3.1\03. Articles 2.0.pdb

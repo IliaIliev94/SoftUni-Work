@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Associative Arrays Exercises\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.exe
+D:\C# Fundamentals\Associative Arrays Exercises\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.deps.json
+D:\C# Fundamentals\Associative Arrays Exercises\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.runtimeconfig.json
+D:\C# Fundamentals\Associative Arrays Exercises\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.runtimeconfig.dev.json
+D:\C# Fundamentals\Associative Arrays Exercises\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.dll
+D:\C# Fundamentals\Associative Arrays Exercises\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.pdb
+D:\C# Fundamentals\Associative Arrays Exercises\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.csprojAssemblyReference.cache
+D:\C# Fundamentals\Associative Arrays Exercises\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Associative Arrays Exercises\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.AssemblyInfo.cs
+D:\C# Fundamentals\Associative Arrays Exercises\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.dll
+D:\C# Fundamentals\Associative Arrays Exercises\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.pdb

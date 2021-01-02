@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Objects and Classes Exercises\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.csprojAssemblyReference.cache
+D:\C# Fundamentals\Objects and Classes Exercises\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Objects and Classes Exercises\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.AssemblyInfo.cs
+D:\C# Fundamentals\Objects and Classes Exercises\06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle Catalogue.exe
+D:\C# Fundamentals\Objects and Classes Exercises\06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle Catalogue.deps.json
+D:\C# Fundamentals\Objects and Classes Exercises\06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle Catalogue.runtimeconfig.json
+D:\C# Fundamentals\Objects and Classes Exercises\06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle Catalogue.runtimeconfig.dev.json
+D:\C# Fundamentals\Objects and Classes Exercises\06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle Catalogue.dll
+D:\C# Fundamentals\Objects and Classes Exercises\06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle Catalogue.pdb
+D:\C# Fundamentals\Objects and Classes Exercises\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.dll
+D:\C# Fundamentals\Objects and Classes Exercises\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.pdb

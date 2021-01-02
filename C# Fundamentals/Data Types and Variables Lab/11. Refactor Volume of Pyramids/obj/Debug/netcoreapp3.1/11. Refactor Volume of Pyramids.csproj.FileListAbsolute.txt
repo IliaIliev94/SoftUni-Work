@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Data Types and Variables\11. Refactor Volume of Pyramids\bin\Debug\netcoreapp3.1\11. Refactor Volume of Pyramids.exe
+D:\C# Fundamentals\Data Types and Variables\11. Refactor Volume of Pyramids\bin\Debug\netcoreapp3.1\11. Refactor Volume of Pyramids.deps.json
+D:\C# Fundamentals\Data Types and Variables\11. Refactor Volume of Pyramids\bin\Debug\netcoreapp3.1\11. Refactor Volume of Pyramids.runtimeconfig.json
+D:\C# Fundamentals\Data Types and Variables\11. Refactor Volume of Pyramids\bin\Debug\netcoreapp3.1\11. Refactor Volume of Pyramids.runtimeconfig.dev.json
+D:\C# Fundamentals\Data Types and Variables\11. Refactor Volume of Pyramids\bin\Debug\netcoreapp3.1\11. Refactor Volume of Pyramids.dll
+D:\C# Fundamentals\Data Types and Variables\11. Refactor Volume of Pyramids\bin\Debug\netcoreapp3.1\11. Refactor Volume of Pyramids.pdb
+D:\C# Fundamentals\Data Types and Variables\11. Refactor Volume of Pyramids\obj\Debug\netcoreapp3.1\11. Refactor Volume of Pyramids.csprojAssemblyReference.cache
+D:\C# Fundamentals\Data Types and Variables\11. Refactor Volume of Pyramids\obj\Debug\netcoreapp3.1\11. Refactor Volume of Pyramids.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Data Types and Variables\11. Refactor Volume of Pyramids\obj\Debug\netcoreapp3.1\11. Refactor Volume of Pyramids.AssemblyInfo.cs
+D:\C# Fundamentals\Data Types and Variables\11. Refactor Volume of Pyramids\obj\Debug\netcoreapp3.1\11. Refactor Volume of Pyramids.dll
+D:\C# Fundamentals\Data Types and Variables\11. Refactor Volume of Pyramids\obj\Debug\netcoreapp3.1\11. Refactor Volume of Pyramids.pdb

@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Methods Exercises\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.exe
+D:\C# Fundamentals\Methods Exercises\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.deps.json
+D:\C# Fundamentals\Methods Exercises\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.runtimeconfig.json
+D:\C# Fundamentals\Methods Exercises\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.runtimeconfig.dev.json
+D:\C# Fundamentals\Methods Exercises\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.dll
+D:\C# Fundamentals\Methods Exercises\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.pdb
+D:\C# Fundamentals\Methods Exercises\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.csprojAssemblyReference.cache
+D:\C# Fundamentals\Methods Exercises\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Methods Exercises\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.AssemblyInfo.cs
+D:\C# Fundamentals\Methods Exercises\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.dll
+D:\C# Fundamentals\Methods Exercises\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.pdb

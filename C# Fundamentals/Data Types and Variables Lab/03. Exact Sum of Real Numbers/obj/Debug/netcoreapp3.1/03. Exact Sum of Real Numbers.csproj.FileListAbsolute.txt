@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Data Types and Variables\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.exe
+D:\C# Fundamentals\Data Types and Variables\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.deps.json
+D:\C# Fundamentals\Data Types and Variables\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.runtimeconfig.json
+D:\C# Fundamentals\Data Types and Variables\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.runtimeconfig.dev.json
+D:\C# Fundamentals\Data Types and Variables\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.dll
+D:\C# Fundamentals\Data Types and Variables\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.pdb
+D:\C# Fundamentals\Data Types and Variables\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.csprojAssemblyReference.cache
+D:\C# Fundamentals\Data Types and Variables\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Data Types and Variables\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.AssemblyInfo.cs
+D:\C# Fundamentals\Data Types and Variables\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.dll
+D:\C# Fundamentals\Data Types and Variables\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.pdb

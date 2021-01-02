@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Arrays More Exercises\05. Longest Increasing Subsequence (LIS)\bin\Debug\netcoreapp3.1\05. Longest Increasing Subsequence (LIS).exe
+D:\C# Fundamentals\Arrays More Exercises\05. Longest Increasing Subsequence (LIS)\bin\Debug\netcoreapp3.1\05. Longest Increasing Subsequence (LIS).deps.json
+D:\C# Fundamentals\Arrays More Exercises\05. Longest Increasing Subsequence (LIS)\bin\Debug\netcoreapp3.1\05. Longest Increasing Subsequence (LIS).runtimeconfig.json
+D:\C# Fundamentals\Arrays More Exercises\05. Longest Increasing Subsequence (LIS)\bin\Debug\netcoreapp3.1\05. Longest Increasing Subsequence (LIS).runtimeconfig.dev.json
+D:\C# Fundamentals\Arrays More Exercises\05. Longest Increasing Subsequence (LIS)\bin\Debug\netcoreapp3.1\05. Longest Increasing Subsequence (LIS).dll
+D:\C# Fundamentals\Arrays More Exercises\05. Longest Increasing Subsequence (LIS)\bin\Debug\netcoreapp3.1\05. Longest Increasing Subsequence (LIS).pdb
+D:\C# Fundamentals\Arrays More Exercises\05. Longest Increasing Subsequence (LIS)\obj\Debug\netcoreapp3.1\05. Longest Increasing Subsequence (LIS).csprojAssemblyReference.cache
+D:\C# Fundamentals\Arrays More Exercises\05. Longest Increasing Subsequence (LIS)\obj\Debug\netcoreapp3.1\05. Longest Increasing Subsequence (LIS).AssemblyInfoInputs.cache
+D:\C# Fundamentals\Arrays More Exercises\05. Longest Increasing Subsequence (LIS)\obj\Debug\netcoreapp3.1\05. Longest Increasing Subsequence (LIS).AssemblyInfo.cs
+D:\C# Fundamentals\Arrays More Exercises\05. Longest Increasing Subsequence (LIS)\obj\Debug\netcoreapp3.1\05. Longest Increasing Subsequence (LIS).dll
+D:\C# Fundamentals\Arrays More Exercises\05. Longest Increasing Subsequence (LIS)\obj\Debug\netcoreapp3.1\05. Longest Increasing Subsequence (LIS).pdb

@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Associative Arrays More Exercises\05. Dragon Army\bin\Debug\netcoreapp3.1\05. Dragon Army.exe
+D:\C# Fundamentals\Associative Arrays More Exercises\05. Dragon Army\bin\Debug\netcoreapp3.1\05. Dragon Army.deps.json
+D:\C# Fundamentals\Associative Arrays More Exercises\05. Dragon Army\bin\Debug\netcoreapp3.1\05. Dragon Army.runtimeconfig.json
+D:\C# Fundamentals\Associative Arrays More Exercises\05. Dragon Army\bin\Debug\netcoreapp3.1\05. Dragon Army.runtimeconfig.dev.json
+D:\C# Fundamentals\Associative Arrays More Exercises\05. Dragon Army\bin\Debug\netcoreapp3.1\05. Dragon Army.dll
+D:\C# Fundamentals\Associative Arrays More Exercises\05. Dragon Army\bin\Debug\netcoreapp3.1\05. Dragon Army.pdb
+D:\C# Fundamentals\Associative Arrays More Exercises\05. Dragon Army\obj\Debug\netcoreapp3.1\05. Dragon Army.csprojAssemblyReference.cache
+D:\C# Fundamentals\Associative Arrays More Exercises\05. Dragon Army\obj\Debug\netcoreapp3.1\05. Dragon Army.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Associative Arrays More Exercises\05. Dragon Army\obj\Debug\netcoreapp3.1\05. Dragon Army.AssemblyInfo.cs
+D:\C# Fundamentals\Associative Arrays More Exercises\05. Dragon Army\obj\Debug\netcoreapp3.1\05. Dragon Army.dll
+D:\C# Fundamentals\Associative Arrays More Exercises\05. Dragon Army\obj\Debug\netcoreapp3.1\05. Dragon Army.pdb

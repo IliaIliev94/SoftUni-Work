@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Text Processing Exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.exe
+D:\C# Fundamentals\Text Processing Exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.deps.json
+D:\C# Fundamentals\Text Processing Exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.runtimeconfig.json
+D:\C# Fundamentals\Text Processing Exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.runtimeconfig.dev.json
+D:\C# Fundamentals\Text Processing Exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.dll
+D:\C# Fundamentals\Text Processing Exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.pdb
+D:\C# Fundamentals\Text Processing Exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.csprojAssemblyReference.cache
+D:\C# Fundamentals\Text Processing Exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Text Processing Exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.AssemblyInfo.cs
+D:\C# Fundamentals\Text Processing Exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.dll
+D:\C# Fundamentals\Text Processing Exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.pdb

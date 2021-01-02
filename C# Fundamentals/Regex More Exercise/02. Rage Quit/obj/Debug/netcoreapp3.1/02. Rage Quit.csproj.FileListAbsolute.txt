@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Regex More Exercise\02. Rage Quit\bin\Debug\netcoreapp3.1\02. Rage Quit.exe
+D:\C# Fundamentals\Regex More Exercise\02. Rage Quit\bin\Debug\netcoreapp3.1\02. Rage Quit.deps.json
+D:\C# Fundamentals\Regex More Exercise\02. Rage Quit\bin\Debug\netcoreapp3.1\02. Rage Quit.runtimeconfig.json
+D:\C# Fundamentals\Regex More Exercise\02. Rage Quit\bin\Debug\netcoreapp3.1\02. Rage Quit.runtimeconfig.dev.json
+D:\C# Fundamentals\Regex More Exercise\02. Rage Quit\bin\Debug\netcoreapp3.1\02. Rage Quit.dll
+D:\C# Fundamentals\Regex More Exercise\02. Rage Quit\bin\Debug\netcoreapp3.1\02. Rage Quit.pdb
+D:\C# Fundamentals\Regex More Exercise\02. Rage Quit\obj\Debug\netcoreapp3.1\02. Rage Quit.csprojAssemblyReference.cache
+D:\C# Fundamentals\Regex More Exercise\02. Rage Quit\obj\Debug\netcoreapp3.1\02. Rage Quit.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Regex More Exercise\02. Rage Quit\obj\Debug\netcoreapp3.1\02. Rage Quit.AssemblyInfo.cs
+D:\C# Fundamentals\Regex More Exercise\02. Rage Quit\obj\Debug\netcoreapp3.1\02. Rage Quit.dll
+D:\C# Fundamentals\Regex More Exercise\02. Rage Quit\obj\Debug\netcoreapp3.1\02. Rage Quit.pdb

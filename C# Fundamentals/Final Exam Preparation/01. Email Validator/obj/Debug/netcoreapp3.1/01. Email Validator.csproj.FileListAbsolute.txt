@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Final Exam Preparation\01. Email Validator\bin\Debug\netcoreapp3.1\01. Email Validator.exe
+D:\C# Fundamentals\Final Exam Preparation\01. Email Validator\bin\Debug\netcoreapp3.1\01. Email Validator.deps.json
+D:\C# Fundamentals\Final Exam Preparation\01. Email Validator\bin\Debug\netcoreapp3.1\01. Email Validator.runtimeconfig.json
+D:\C# Fundamentals\Final Exam Preparation\01. Email Validator\bin\Debug\netcoreapp3.1\01. Email Validator.runtimeconfig.dev.json
+D:\C# Fundamentals\Final Exam Preparation\01. Email Validator\bin\Debug\netcoreapp3.1\01. Email Validator.dll
+D:\C# Fundamentals\Final Exam Preparation\01. Email Validator\bin\Debug\netcoreapp3.1\01. Email Validator.pdb
+D:\C# Fundamentals\Final Exam Preparation\01. Email Validator\obj\Debug\netcoreapp3.1\01. Email Validator.csprojAssemblyReference.cache
+D:\C# Fundamentals\Final Exam Preparation\01. Email Validator\obj\Debug\netcoreapp3.1\01. Email Validator.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Final Exam Preparation\01. Email Validator\obj\Debug\netcoreapp3.1\01. Email Validator.AssemblyInfo.cs
+D:\C# Fundamentals\Final Exam Preparation\01. Email Validator\obj\Debug\netcoreapp3.1\01. Email Validator.dll
+D:\C# Fundamentals\Final Exam Preparation\01. Email Validator\obj\Debug\netcoreapp3.1\01. Email Validator.pdb

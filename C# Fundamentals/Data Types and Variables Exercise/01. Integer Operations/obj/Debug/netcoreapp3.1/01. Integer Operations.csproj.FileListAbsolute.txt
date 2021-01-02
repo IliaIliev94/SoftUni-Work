@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Data Types and Variables Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.exe
+D:\C# Fundamentals\Data Types and Variables Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.deps.json
+D:\C# Fundamentals\Data Types and Variables Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.runtimeconfig.json
+D:\C# Fundamentals\Data Types and Variables Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.runtimeconfig.dev.json
+D:\C# Fundamentals\Data Types and Variables Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.dll
+D:\C# Fundamentals\Data Types and Variables Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.pdb
+D:\C# Fundamentals\Data Types and Variables Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.csprojAssemblyReference.cache
+D:\C# Fundamentals\Data Types and Variables Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Data Types and Variables Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.AssemblyInfo.cs
+D:\C# Fundamentals\Data Types and Variables Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.dll
+D:\C# Fundamentals\Data Types and Variables Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.pdb

@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\04. Print and Sum\bin\Debug\netcoreapp3.1\04. Print and Sum.exe
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\04. Print and Sum\bin\Debug\netcoreapp3.1\04. Print and Sum.deps.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\04. Print and Sum\bin\Debug\netcoreapp3.1\04. Print and Sum.runtimeconfig.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\04. Print and Sum\bin\Debug\netcoreapp3.1\04. Print and Sum.runtimeconfig.dev.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\04. Print and Sum\bin\Debug\netcoreapp3.1\04. Print and Sum.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\04. Print and Sum\bin\Debug\netcoreapp3.1\04. Print and Sum.pdb
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\04. Print and Sum\obj\Debug\netcoreapp3.1\04. Print and Sum.csprojAssemblyReference.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\04. Print and Sum\obj\Debug\netcoreapp3.1\04. Print and Sum.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\04. Print and Sum\obj\Debug\netcoreapp3.1\04. Print and Sum.AssemblyInfo.cs
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\04. Print and Sum\obj\Debug\netcoreapp3.1\04. Print and Sum.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\04. Print and Sum\obj\Debug\netcoreapp3.1\04. Print and Sum.pdb

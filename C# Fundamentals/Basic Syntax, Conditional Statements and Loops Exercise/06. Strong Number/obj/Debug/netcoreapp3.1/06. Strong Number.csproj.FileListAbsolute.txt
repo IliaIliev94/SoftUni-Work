@@ -1,0 +1,10 @@
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\06. Strong Number\bin\Debug\netcoreapp3.1\06. Strong Number.exe
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\06. Strong Number\bin\Debug\netcoreapp3.1\06. Strong Number.deps.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\06. Strong Number\bin\Debug\netcoreapp3.1\06. Strong Number.runtimeconfig.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\06. Strong Number\bin\Debug\netcoreapp3.1\06. Strong Number.runtimeconfig.dev.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\06. Strong Number\bin\Debug\netcoreapp3.1\06. Strong Number.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\06. Strong Number\bin\Debug\netcoreapp3.1\06. Strong Number.pdb
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\06. Strong Number\obj\Debug\netcoreapp3.1\06. Strong Number.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\06. Strong Number\obj\Debug\netcoreapp3.1\06. Strong Number.AssemblyInfo.cs
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\06. Strong Number\obj\Debug\netcoreapp3.1\06. Strong Number.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\06. Strong Number\obj\Debug\netcoreapp3.1\06. Strong Number.pdb

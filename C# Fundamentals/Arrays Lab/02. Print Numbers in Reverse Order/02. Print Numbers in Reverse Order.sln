@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Print Numbers in Reverse Order", "02. Print Numbers in Reverse Order.csproj", "{6A6B334C-C151-4122-9D7B-C0D0E5FA9470}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A6B334C-C151-4122-9D7B-C0D0E5FA9470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A6B334C-C151-4122-9D7B-C0D0E5FA9470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A6B334C-C151-4122-9D7B-C0D0E5FA9470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A6B334C-C151-4122-9D7B-C0D0E5FA9470}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACD66886-7AD0-4014-880E-7FAADB59C685}
+	EndGlobalSection
+EndGlobal

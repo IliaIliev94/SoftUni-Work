@@ -1,0 +1,10 @@
+D:\C# Fundamentals\Lists Exercises\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.exe
+D:\C# Fundamentals\Lists Exercises\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.deps.json
+D:\C# Fundamentals\Lists Exercises\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.runtimeconfig.json
+D:\C# Fundamentals\Lists Exercises\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.runtimeconfig.dev.json
+D:\C# Fundamentals\Lists Exercises\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.dll
+D:\C# Fundamentals\Lists Exercises\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.pdb
+D:\C# Fundamentals\Lists Exercises\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Lists Exercises\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.AssemblyInfo.cs
+D:\C# Fundamentals\Lists Exercises\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.dll
+D:\C# Fundamentals\Lists Exercises\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.pdb

@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Lists Exercises\09. Pokemon Don't Go\bin\Debug\netcoreapp3.1\09. Pokemon Don't Go.exe
+D:\C# Fundamentals\Lists Exercises\09. Pokemon Don't Go\bin\Debug\netcoreapp3.1\09. Pokemon Don't Go.deps.json
+D:\C# Fundamentals\Lists Exercises\09. Pokemon Don't Go\bin\Debug\netcoreapp3.1\09. Pokemon Don't Go.runtimeconfig.json
+D:\C# Fundamentals\Lists Exercises\09. Pokemon Don't Go\bin\Debug\netcoreapp3.1\09. Pokemon Don't Go.runtimeconfig.dev.json
+D:\C# Fundamentals\Lists Exercises\09. Pokemon Don't Go\bin\Debug\netcoreapp3.1\09. Pokemon Don't Go.dll
+D:\C# Fundamentals\Lists Exercises\09. Pokemon Don't Go\bin\Debug\netcoreapp3.1\09. Pokemon Don't Go.pdb
+D:\C# Fundamentals\Lists Exercises\09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\09. Pokemon Don't Go.csprojAssemblyReference.cache
+D:\C# Fundamentals\Lists Exercises\09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\09. Pokemon Don't Go.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Lists Exercises\09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\09. Pokemon Don't Go.AssemblyInfo.cs
+D:\C# Fundamentals\Lists Exercises\09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\09. Pokemon Don't Go.dll
+D:\C# Fundamentals\Lists Exercises\09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\09. Pokemon Don't Go.pdb

@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Data Types and Variables Exercise\11. Snowballs\bin\Debug\netcoreapp3.1\11. Snowballs.exe
+D:\C# Fundamentals\Data Types and Variables Exercise\11. Snowballs\bin\Debug\netcoreapp3.1\11. Snowballs.deps.json
+D:\C# Fundamentals\Data Types and Variables Exercise\11. Snowballs\bin\Debug\netcoreapp3.1\11. Snowballs.runtimeconfig.json
+D:\C# Fundamentals\Data Types and Variables Exercise\11. Snowballs\bin\Debug\netcoreapp3.1\11. Snowballs.runtimeconfig.dev.json
+D:\C# Fundamentals\Data Types and Variables Exercise\11. Snowballs\bin\Debug\netcoreapp3.1\11. Snowballs.dll
+D:\C# Fundamentals\Data Types and Variables Exercise\11. Snowballs\bin\Debug\netcoreapp3.1\11. Snowballs.pdb
+D:\C# Fundamentals\Data Types and Variables Exercise\11. Snowballs\obj\Debug\netcoreapp3.1\11. Snowballs.csprojAssemblyReference.cache
+D:\C# Fundamentals\Data Types and Variables Exercise\11. Snowballs\obj\Debug\netcoreapp3.1\11. Snowballs.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Data Types and Variables Exercise\11. Snowballs\obj\Debug\netcoreapp3.1\11. Snowballs.AssemblyInfo.cs
+D:\C# Fundamentals\Data Types and Variables Exercise\11. Snowballs\obj\Debug\netcoreapp3.1\11. Snowballs.dll
+D:\C# Fundamentals\Data Types and Variables Exercise\11. Snowballs\obj\Debug\netcoreapp3.1\11. Snowballs.pdb

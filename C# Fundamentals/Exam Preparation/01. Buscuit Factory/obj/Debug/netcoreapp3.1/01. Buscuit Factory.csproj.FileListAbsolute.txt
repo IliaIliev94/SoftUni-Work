@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Exam Preparation\01. Buscuit Factory\bin\Debug\netcoreapp3.1\01. Buscuit Factory.exe
+D:\C# Fundamentals\Exam Preparation\01. Buscuit Factory\bin\Debug\netcoreapp3.1\01. Buscuit Factory.deps.json
+D:\C# Fundamentals\Exam Preparation\01. Buscuit Factory\bin\Debug\netcoreapp3.1\01. Buscuit Factory.runtimeconfig.json
+D:\C# Fundamentals\Exam Preparation\01. Buscuit Factory\bin\Debug\netcoreapp3.1\01. Buscuit Factory.runtimeconfig.dev.json
+D:\C# Fundamentals\Exam Preparation\01. Buscuit Factory\bin\Debug\netcoreapp3.1\01. Buscuit Factory.dll
+D:\C# Fundamentals\Exam Preparation\01. Buscuit Factory\bin\Debug\netcoreapp3.1\01. Buscuit Factory.pdb
+D:\C# Fundamentals\Exam Preparation\01. Buscuit Factory\obj\Debug\netcoreapp3.1\01. Buscuit Factory.csprojAssemblyReference.cache
+D:\C# Fundamentals\Exam Preparation\01. Buscuit Factory\obj\Debug\netcoreapp3.1\01. Buscuit Factory.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Exam Preparation\01. Buscuit Factory\obj\Debug\netcoreapp3.1\01. Buscuit Factory.AssemblyInfo.cs
+D:\C# Fundamentals\Exam Preparation\01. Buscuit Factory\obj\Debug\netcoreapp3.1\01. Buscuit Factory.dll
+D:\C# Fundamentals\Exam Preparation\01. Buscuit Factory\obj\Debug\netcoreapp3.1\01. Buscuit Factory.pdb

@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops More Exercise\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.csprojAssemblyReference.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops More Exercise\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops More Exercise\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.AssemblyInfo.cs
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops More Exercise\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.exe
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops More Exercise\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.deps.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops More Exercise\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.runtimeconfig.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops More Exercise\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.runtimeconfig.dev.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops More Exercise\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops More Exercise\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.pdb
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops More Exercise\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops More Exercise\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.pdb

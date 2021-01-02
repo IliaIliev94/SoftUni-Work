@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Objects and Classes More Exercises\04. Raw Data\bin\Debug\netcoreapp3.1\04. Raw Data.exe
+D:\C# Fundamentals\Objects and Classes More Exercises\04. Raw Data\bin\Debug\netcoreapp3.1\04. Raw Data.deps.json
+D:\C# Fundamentals\Objects and Classes More Exercises\04. Raw Data\bin\Debug\netcoreapp3.1\04. Raw Data.runtimeconfig.json
+D:\C# Fundamentals\Objects and Classes More Exercises\04. Raw Data\bin\Debug\netcoreapp3.1\04. Raw Data.runtimeconfig.dev.json
+D:\C# Fundamentals\Objects and Classes More Exercises\04. Raw Data\bin\Debug\netcoreapp3.1\04. Raw Data.dll
+D:\C# Fundamentals\Objects and Classes More Exercises\04. Raw Data\bin\Debug\netcoreapp3.1\04. Raw Data.pdb
+D:\C# Fundamentals\Objects and Classes More Exercises\04. Raw Data\obj\Debug\netcoreapp3.1\04. Raw Data.csprojAssemblyReference.cache
+D:\C# Fundamentals\Objects and Classes More Exercises\04. Raw Data\obj\Debug\netcoreapp3.1\04. Raw Data.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Objects and Classes More Exercises\04. Raw Data\obj\Debug\netcoreapp3.1\04. Raw Data.AssemblyInfo.cs
+D:\C# Fundamentals\Objects and Classes More Exercises\04. Raw Data\obj\Debug\netcoreapp3.1\04. Raw Data.dll
+D:\C# Fundamentals\Objects and Classes More Exercises\04. Raw Data\obj\Debug\netcoreapp3.1\04. Raw Data.pdb

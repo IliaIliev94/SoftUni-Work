@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\07. Theatre Promotions\obj\Debug\netcoreapp3.1\07. Theatre Promotions.csprojAssemblyReference.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\07. Theatre Promotions\obj\Debug\netcoreapp3.1\07. Theatre Promotions.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\07. Theatre Promotions\obj\Debug\netcoreapp3.1\07. Theatre Promotions.AssemblyInfo.cs
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\07. Theatre Promotions\bin\Debug\netcoreapp3.1\07. Theatre Promotions.exe
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\07. Theatre Promotions\bin\Debug\netcoreapp3.1\07. Theatre Promotions.deps.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\07. Theatre Promotions\bin\Debug\netcoreapp3.1\07. Theatre Promotions.runtimeconfig.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\07. Theatre Promotions\bin\Debug\netcoreapp3.1\07. Theatre Promotions.runtimeconfig.dev.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\07. Theatre Promotions\bin\Debug\netcoreapp3.1\07. Theatre Promotions.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\07. Theatre Promotions\bin\Debug\netcoreapp3.1\07. Theatre Promotions.pdb
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\07. Theatre Promotions\obj\Debug\netcoreapp3.1\07. Theatre Promotions.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\07. Theatre Promotions\obj\Debug\netcoreapp3.1\07. Theatre Promotions.pdb

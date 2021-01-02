@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Arrays Exercises\4. Array Rotation\bin\Debug\netcoreapp3.1\4. Array Rotation.exe
+D:\C# Fundamentals\Arrays Exercises\4. Array Rotation\bin\Debug\netcoreapp3.1\4. Array Rotation.deps.json
+D:\C# Fundamentals\Arrays Exercises\4. Array Rotation\bin\Debug\netcoreapp3.1\4. Array Rotation.runtimeconfig.json
+D:\C# Fundamentals\Arrays Exercises\4. Array Rotation\bin\Debug\netcoreapp3.1\4. Array Rotation.runtimeconfig.dev.json
+D:\C# Fundamentals\Arrays Exercises\4. Array Rotation\bin\Debug\netcoreapp3.1\4. Array Rotation.dll
+D:\C# Fundamentals\Arrays Exercises\4. Array Rotation\bin\Debug\netcoreapp3.1\4. Array Rotation.pdb
+D:\C# Fundamentals\Arrays Exercises\4. Array Rotation\obj\Debug\netcoreapp3.1\4. Array Rotation.csprojAssemblyReference.cache
+D:\C# Fundamentals\Arrays Exercises\4. Array Rotation\obj\Debug\netcoreapp3.1\4. Array Rotation.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Arrays Exercises\4. Array Rotation\obj\Debug\netcoreapp3.1\4. Array Rotation.AssemblyInfo.cs
+D:\C# Fundamentals\Arrays Exercises\4. Array Rotation\obj\Debug\netcoreapp3.1\4. Array Rotation.dll
+D:\C# Fundamentals\Arrays Exercises\4. Array Rotation\obj\Debug\netcoreapp3.1\4. Array Rotation.pdb

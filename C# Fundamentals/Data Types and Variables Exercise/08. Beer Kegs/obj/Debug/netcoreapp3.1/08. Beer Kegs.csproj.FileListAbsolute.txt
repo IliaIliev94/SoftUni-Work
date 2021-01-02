@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Data Types and Variables Exercise\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.csprojAssemblyReference.cache
+D:\C# Fundamentals\Data Types and Variables Exercise\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Data Types and Variables Exercise\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.AssemblyInfo.cs
+D:\C# Fundamentals\Data Types and Variables Exercise\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.exe
+D:\C# Fundamentals\Data Types and Variables Exercise\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.deps.json
+D:\C# Fundamentals\Data Types and Variables Exercise\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.runtimeconfig.json
+D:\C# Fundamentals\Data Types and Variables Exercise\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.runtimeconfig.dev.json
+D:\C# Fundamentals\Data Types and Variables Exercise\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.dll
+D:\C# Fundamentals\Data Types and Variables Exercise\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.pdb
+D:\C# Fundamentals\Data Types and Variables Exercise\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.dll
+D:\C# Fundamentals\Data Types and Variables Exercise\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.pdb

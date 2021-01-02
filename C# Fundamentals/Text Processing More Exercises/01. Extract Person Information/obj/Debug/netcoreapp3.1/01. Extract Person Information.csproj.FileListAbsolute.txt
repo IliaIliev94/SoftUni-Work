@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Text Processing More Exercises\01. Extract Person Information\bin\Debug\netcoreapp3.1\01. Extract Person Information.exe
+D:\C# Fundamentals\Text Processing More Exercises\01. Extract Person Information\bin\Debug\netcoreapp3.1\01. Extract Person Information.deps.json
+D:\C# Fundamentals\Text Processing More Exercises\01. Extract Person Information\bin\Debug\netcoreapp3.1\01. Extract Person Information.runtimeconfig.json
+D:\C# Fundamentals\Text Processing More Exercises\01. Extract Person Information\bin\Debug\netcoreapp3.1\01. Extract Person Information.runtimeconfig.dev.json
+D:\C# Fundamentals\Text Processing More Exercises\01. Extract Person Information\bin\Debug\netcoreapp3.1\01. Extract Person Information.dll
+D:\C# Fundamentals\Text Processing More Exercises\01. Extract Person Information\bin\Debug\netcoreapp3.1\01. Extract Person Information.pdb
+D:\C# Fundamentals\Text Processing More Exercises\01. Extract Person Information\obj\Debug\netcoreapp3.1\01. Extract Person Information.csprojAssemblyReference.cache
+D:\C# Fundamentals\Text Processing More Exercises\01. Extract Person Information\obj\Debug\netcoreapp3.1\01. Extract Person Information.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Text Processing More Exercises\01. Extract Person Information\obj\Debug\netcoreapp3.1\01. Extract Person Information.AssemblyInfo.cs
+D:\C# Fundamentals\Text Processing More Exercises\01. Extract Person Information\obj\Debug\netcoreapp3.1\01. Extract Person Information.dll
+D:\C# Fundamentals\Text Processing More Exercises\01. Extract Person Information\obj\Debug\netcoreapp3.1\01. Extract Person Information.pdb

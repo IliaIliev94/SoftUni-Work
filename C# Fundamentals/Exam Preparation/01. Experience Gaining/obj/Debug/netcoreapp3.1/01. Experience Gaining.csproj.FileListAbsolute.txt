@@ -1,0 +1,10 @@
+D:\C# Fundamentals\Exam Preparation\01. Experience Gaining\bin\Debug\netcoreapp3.1\01. Experience Gaining.exe
+D:\C# Fundamentals\Exam Preparation\01. Experience Gaining\bin\Debug\netcoreapp3.1\01. Experience Gaining.deps.json
+D:\C# Fundamentals\Exam Preparation\01. Experience Gaining\bin\Debug\netcoreapp3.1\01. Experience Gaining.runtimeconfig.json
+D:\C# Fundamentals\Exam Preparation\01. Experience Gaining\bin\Debug\netcoreapp3.1\01. Experience Gaining.runtimeconfig.dev.json
+D:\C# Fundamentals\Exam Preparation\01. Experience Gaining\bin\Debug\netcoreapp3.1\01. Experience Gaining.dll
+D:\C# Fundamentals\Exam Preparation\01. Experience Gaining\bin\Debug\netcoreapp3.1\01. Experience Gaining.pdb
+D:\C# Fundamentals\Exam Preparation\01. Experience Gaining\obj\Debug\netcoreapp3.1\01. Experience Gaining.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Exam Preparation\01. Experience Gaining\obj\Debug\netcoreapp3.1\01. Experience Gaining.AssemblyInfo.cs
+D:\C# Fundamentals\Exam Preparation\01. Experience Gaining\obj\Debug\netcoreapp3.1\01. Experience Gaining.dll
+D:\C# Fundamentals\Exam Preparation\01. Experience Gaining\obj\Debug\netcoreapp3.1\01. Experience Gaining.pdb

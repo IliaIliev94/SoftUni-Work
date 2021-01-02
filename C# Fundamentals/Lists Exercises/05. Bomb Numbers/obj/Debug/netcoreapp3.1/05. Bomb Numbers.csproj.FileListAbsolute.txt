@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Lists Exercises\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.exe
+D:\C# Fundamentals\Lists Exercises\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.deps.json
+D:\C# Fundamentals\Lists Exercises\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.runtimeconfig.json
+D:\C# Fundamentals\Lists Exercises\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.runtimeconfig.dev.json
+D:\C# Fundamentals\Lists Exercises\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.dll
+D:\C# Fundamentals\Lists Exercises\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.pdb
+D:\C# Fundamentals\Lists Exercises\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.csprojAssemblyReference.cache
+D:\C# Fundamentals\Lists Exercises\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Lists Exercises\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.AssemblyInfo.cs
+D:\C# Fundamentals\Lists Exercises\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.dll
+D:\C# Fundamentals\Lists Exercises\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.pdb

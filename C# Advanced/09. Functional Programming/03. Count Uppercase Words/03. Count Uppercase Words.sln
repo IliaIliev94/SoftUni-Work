@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Count Uppercase Words", "03. Count Uppercase Words.csproj", "{A91FF1B9-C468-41FA-A7E6-204E3B317C9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A91FF1B9-C468-41FA-A7E6-204E3B317C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A91FF1B9-C468-41FA-A7E6-204E3B317C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A91FF1B9-C468-41FA-A7E6-204E3B317C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A91FF1B9-C468-41FA-A7E6-204E3B317C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8933C338-8C96-49F5-BFF5-E6063E2385DC}
+	EndGlobalSection
+EndGlobal

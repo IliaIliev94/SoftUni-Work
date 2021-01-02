@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\02. Division\bin\Debug\netcoreapp3.1\02. Division.exe
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\02. Division\bin\Debug\netcoreapp3.1\02. Division.deps.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\02. Division\bin\Debug\netcoreapp3.1\02. Division.runtimeconfig.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\02. Division\bin\Debug\netcoreapp3.1\02. Division.runtimeconfig.dev.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\02. Division\bin\Debug\netcoreapp3.1\02. Division.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\02. Division\bin\Debug\netcoreapp3.1\02. Division.pdb
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.csprojAssemblyReference.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.AssemblyInfo.cs
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.pdb

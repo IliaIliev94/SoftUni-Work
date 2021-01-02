@@ -1,0 +1,10 @@
+D:\C# Fundamentals\Methods Exercises\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.exe
+D:\C# Fundamentals\Methods Exercises\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.deps.json
+D:\C# Fundamentals\Methods Exercises\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.runtimeconfig.json
+D:\C# Fundamentals\Methods Exercises\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.runtimeconfig.dev.json
+D:\C# Fundamentals\Methods Exercises\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.dll
+D:\C# Fundamentals\Methods Exercises\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.pdb
+D:\C# Fundamentals\Methods Exercises\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Methods Exercises\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.AssemblyInfo.cs
+D:\C# Fundamentals\Methods Exercises\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.dll
+D:\C# Fundamentals\Methods Exercises\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.pdb

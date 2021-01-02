@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Arrays Lab\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.exe
+D:\C# Fundamentals\Arrays Lab\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.deps.json
+D:\C# Fundamentals\Arrays Lab\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.runtimeconfig.json
+D:\C# Fundamentals\Arrays Lab\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.runtimeconfig.dev.json
+D:\C# Fundamentals\Arrays Lab\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.dll
+D:\C# Fundamentals\Arrays Lab\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.pdb
+D:\C# Fundamentals\Arrays Lab\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.csprojAssemblyReference.cache
+D:\C# Fundamentals\Arrays Lab\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Arrays Lab\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.AssemblyInfo.cs
+D:\C# Fundamentals\Arrays Lab\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.dll
+D:\C# Fundamentals\Arrays Lab\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.pdb

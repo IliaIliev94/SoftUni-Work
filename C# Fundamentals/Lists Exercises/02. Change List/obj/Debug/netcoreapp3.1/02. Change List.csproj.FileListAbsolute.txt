@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Lists Exercises\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.exe
+D:\C# Fundamentals\Lists Exercises\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.deps.json
+D:\C# Fundamentals\Lists Exercises\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.runtimeconfig.json
+D:\C# Fundamentals\Lists Exercises\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.runtimeconfig.dev.json
+D:\C# Fundamentals\Lists Exercises\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.dll
+D:\C# Fundamentals\Lists Exercises\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.pdb
+D:\C# Fundamentals\Lists Exercises\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.csprojAssemblyReference.cache
+D:\C# Fundamentals\Lists Exercises\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Lists Exercises\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.AssemblyInfo.cs
+D:\C# Fundamentals\Lists Exercises\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.dll
+D:\C# Fundamentals\Lists Exercises\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.pdb

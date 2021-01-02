@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Lists More Exercises\03. Post Office\bin\Debug\netcoreapp3.1\03. Post Office.exe
+D:\C# Fundamentals\Lists More Exercises\03. Post Office\bin\Debug\netcoreapp3.1\03. Post Office.deps.json
+D:\C# Fundamentals\Lists More Exercises\03. Post Office\bin\Debug\netcoreapp3.1\03. Post Office.runtimeconfig.json
+D:\C# Fundamentals\Lists More Exercises\03. Post Office\bin\Debug\netcoreapp3.1\03. Post Office.runtimeconfig.dev.json
+D:\C# Fundamentals\Lists More Exercises\03. Post Office\bin\Debug\netcoreapp3.1\03. Post Office.dll
+D:\C# Fundamentals\Lists More Exercises\03. Post Office\bin\Debug\netcoreapp3.1\03. Post Office.pdb
+D:\C# Fundamentals\Lists More Exercises\03. Post Office\obj\Debug\netcoreapp3.1\03. Post Office.csprojAssemblyReference.cache
+D:\C# Fundamentals\Lists More Exercises\03. Post Office\obj\Debug\netcoreapp3.1\03. Post Office.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Lists More Exercises\03. Post Office\obj\Debug\netcoreapp3.1\03. Post Office.AssemblyInfo.cs
+D:\C# Fundamentals\Lists More Exercises\03. Post Office\obj\Debug\netcoreapp3.1\03. Post Office.dll
+D:\C# Fundamentals\Lists More Exercises\03. Post Office\obj\Debug\netcoreapp3.1\03. Post Office.pdb

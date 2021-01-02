@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Text Processing More Exercises\02. Ascii Simulator\obj\Debug\netcoreapp3.1\02. Ascii Simulator.csprojAssemblyReference.cache
+D:\C# Fundamentals\Text Processing More Exercises\02. Ascii Simulator\obj\Debug\netcoreapp3.1\02. Ascii Simulator.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Text Processing More Exercises\02. Ascii Simulator\obj\Debug\netcoreapp3.1\02. Ascii Simulator.AssemblyInfo.cs
+D:\C# Fundamentals\Text Processing More Exercises\02. Ascii Simulator\bin\Debug\netcoreapp3.1\02. Ascii Simulator.exe
+D:\C# Fundamentals\Text Processing More Exercises\02. Ascii Simulator\bin\Debug\netcoreapp3.1\02. Ascii Simulator.deps.json
+D:\C# Fundamentals\Text Processing More Exercises\02. Ascii Simulator\bin\Debug\netcoreapp3.1\02. Ascii Simulator.runtimeconfig.json
+D:\C# Fundamentals\Text Processing More Exercises\02. Ascii Simulator\bin\Debug\netcoreapp3.1\02. Ascii Simulator.runtimeconfig.dev.json
+D:\C# Fundamentals\Text Processing More Exercises\02. Ascii Simulator\bin\Debug\netcoreapp3.1\02. Ascii Simulator.dll
+D:\C# Fundamentals\Text Processing More Exercises\02. Ascii Simulator\bin\Debug\netcoreapp3.1\02. Ascii Simulator.pdb
+D:\C# Fundamentals\Text Processing More Exercises\02. Ascii Simulator\obj\Debug\netcoreapp3.1\02. Ascii Simulator.dll
+D:\C# Fundamentals\Text Processing More Exercises\02. Ascii Simulator\obj\Debug\netcoreapp3.1\02. Ascii Simulator.pdb

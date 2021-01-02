@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Recursive sum", "01. Recursive sum.csproj", "{DFC54601-070C-4D13-AC3C-3EE6BCE6E385}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFC54601-070C-4D13-AC3C-3EE6BCE6E385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC54601-070C-4D13-AC3C-3EE6BCE6E385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC54601-070C-4D13-AC3C-3EE6BCE6E385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC54601-070C-4D13-AC3C-3EE6BCE6E385}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F029957-1778-4E80-866B-4DDE21A35772}
+	EndGlobalSection
+EndGlobal

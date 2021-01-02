@@ -1,0 +1,8 @@
+{
+  "name": "05. String Builder",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}

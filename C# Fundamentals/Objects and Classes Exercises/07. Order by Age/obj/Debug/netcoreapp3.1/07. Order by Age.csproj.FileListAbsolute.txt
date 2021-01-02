@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Objects and Classes Exercises\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.csprojAssemblyReference.cache
+D:\C# Fundamentals\Objects and Classes Exercises\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Objects and Classes Exercises\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.AssemblyInfo.cs
+D:\C# Fundamentals\Objects and Classes Exercises\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.exe
+D:\C# Fundamentals\Objects and Classes Exercises\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.deps.json
+D:\C# Fundamentals\Objects and Classes Exercises\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.runtimeconfig.json
+D:\C# Fundamentals\Objects and Classes Exercises\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.runtimeconfig.dev.json
+D:\C# Fundamentals\Objects and Classes Exercises\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.dll
+D:\C# Fundamentals\Objects and Classes Exercises\07. Order by Age\bin\Debug\netcoreapp3.1\07. Order by Age.pdb
+D:\C# Fundamentals\Objects and Classes Exercises\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.dll
+D:\C# Fundamentals\Objects and Classes Exercises\07. Order by Age\obj\Debug\netcoreapp3.1\07. Order by Age.pdb

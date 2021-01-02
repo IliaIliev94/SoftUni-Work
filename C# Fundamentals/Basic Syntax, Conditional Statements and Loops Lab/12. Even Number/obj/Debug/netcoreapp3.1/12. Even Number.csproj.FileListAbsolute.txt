@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.exe
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.deps.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.runtimeconfig.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.runtimeconfig.dev.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.pdb
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.csprojAssemblyReference.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.AssemblyInfo.cs
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.pdb

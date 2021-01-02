@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Text Processing Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.1\01. Valid Usernames.exe
+D:\C# Fundamentals\Text Processing Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.1\01. Valid Usernames.deps.json
+D:\C# Fundamentals\Text Processing Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.1\01. Valid Usernames.runtimeconfig.json
+D:\C# Fundamentals\Text Processing Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.1\01. Valid Usernames.runtimeconfig.dev.json
+D:\C# Fundamentals\Text Processing Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.1\01. Valid Usernames.dll
+D:\C# Fundamentals\Text Processing Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.1\01. Valid Usernames.pdb
+D:\C# Fundamentals\Text Processing Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.1\01. Valid Usernames.csprojAssemblyReference.cache
+D:\C# Fundamentals\Text Processing Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.1\01. Valid Usernames.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Text Processing Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.1\01. Valid Usernames.AssemblyInfo.cs
+D:\C# Fundamentals\Text Processing Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.1\01. Valid Usernames.dll
+D:\C# Fundamentals\Text Processing Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.1\01. Valid Usernames.pdb

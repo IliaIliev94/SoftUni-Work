@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Lists Exercises\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.exe
+D:\C# Fundamentals\Lists Exercises\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.deps.json
+D:\C# Fundamentals\Lists Exercises\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.runtimeconfig.json
+D:\C# Fundamentals\Lists Exercises\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.runtimeconfig.dev.json
+D:\C# Fundamentals\Lists Exercises\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.dll
+D:\C# Fundamentals\Lists Exercises\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.pdb
+D:\C# Fundamentals\Lists Exercises\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.csprojAssemblyReference.cache
+D:\C# Fundamentals\Lists Exercises\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Lists Exercises\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.AssemblyInfo.cs
+D:\C# Fundamentals\Lists Exercises\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.dll
+D:\C# Fundamentals\Lists Exercises\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.pdb

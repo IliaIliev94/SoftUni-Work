@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Arrays More Exercises\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.exe
+D:\C# Fundamentals\Arrays More Exercises\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.deps.json
+D:\C# Fundamentals\Arrays More Exercises\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.runtimeconfig.json
+D:\C# Fundamentals\Arrays More Exercises\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.runtimeconfig.dev.json
+D:\C# Fundamentals\Arrays More Exercises\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.dll
+D:\C# Fundamentals\Arrays More Exercises\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.pdb
+D:\C# Fundamentals\Arrays More Exercises\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.csprojAssemblyReference.cache
+D:\C# Fundamentals\Arrays More Exercises\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Arrays More Exercises\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.AssemblyInfo.cs
+D:\C# Fundamentals\Arrays More Exercises\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.dll
+D:\C# Fundamentals\Arrays More Exercises\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.pdb

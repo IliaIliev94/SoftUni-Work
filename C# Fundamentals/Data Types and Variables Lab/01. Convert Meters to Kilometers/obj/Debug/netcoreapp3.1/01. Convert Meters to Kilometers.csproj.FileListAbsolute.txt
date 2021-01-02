@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.csprojAssemblyReference.cache
+D:\C# Fundamentals\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.AssemblyInfo.cs
+D:\C# Fundamentals\Data Types and Variables\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.exe
+D:\C# Fundamentals\Data Types and Variables\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.deps.json
+D:\C# Fundamentals\Data Types and Variables\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.runtimeconfig.json
+D:\C# Fundamentals\Data Types and Variables\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.runtimeconfig.dev.json
+D:\C# Fundamentals\Data Types and Variables\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.dll
+D:\C# Fundamentals\Data Types and Variables\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.pdb
+D:\C# Fundamentals\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.dll
+D:\C# Fundamentals\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.pdb

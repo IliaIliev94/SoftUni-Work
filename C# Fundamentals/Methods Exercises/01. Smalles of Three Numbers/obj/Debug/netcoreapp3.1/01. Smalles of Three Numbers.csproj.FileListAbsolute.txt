@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Methods Exercises\01. Smalles of Three Numbers\bin\Debug\netcoreapp3.1\01. Smalles of Three Numbers.exe
+D:\C# Fundamentals\Methods Exercises\01. Smalles of Three Numbers\bin\Debug\netcoreapp3.1\01. Smalles of Three Numbers.deps.json
+D:\C# Fundamentals\Methods Exercises\01. Smalles of Three Numbers\bin\Debug\netcoreapp3.1\01. Smalles of Three Numbers.runtimeconfig.json
+D:\C# Fundamentals\Methods Exercises\01. Smalles of Three Numbers\bin\Debug\netcoreapp3.1\01. Smalles of Three Numbers.runtimeconfig.dev.json
+D:\C# Fundamentals\Methods Exercises\01. Smalles of Three Numbers\bin\Debug\netcoreapp3.1\01. Smalles of Three Numbers.dll
+D:\C# Fundamentals\Methods Exercises\01. Smalles of Three Numbers\bin\Debug\netcoreapp3.1\01. Smalles of Three Numbers.pdb
+D:\C# Fundamentals\Methods Exercises\01. Smalles of Three Numbers\obj\Debug\netcoreapp3.1\01. Smalles of Three Numbers.csprojAssemblyReference.cache
+D:\C# Fundamentals\Methods Exercises\01. Smalles of Three Numbers\obj\Debug\netcoreapp3.1\01. Smalles of Three Numbers.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Methods Exercises\01. Smalles of Three Numbers\obj\Debug\netcoreapp3.1\01. Smalles of Three Numbers.AssemblyInfo.cs
+D:\C# Fundamentals\Methods Exercises\01. Smalles of Three Numbers\obj\Debug\netcoreapp3.1\01. Smalles of Three Numbers.dll
+D:\C# Fundamentals\Methods Exercises\01. Smalles of Three Numbers\obj\Debug\netcoreapp3.1\01. Smalles of Three Numbers.pdb

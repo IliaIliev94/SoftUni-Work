@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Exam Preparation\03. Wizard Poker\bin\Debug\netcoreapp3.1\03. Wizard Poker.exe
+D:\C# Fundamentals\Exam Preparation\03. Wizard Poker\bin\Debug\netcoreapp3.1\03. Wizard Poker.deps.json
+D:\C# Fundamentals\Exam Preparation\03. Wizard Poker\bin\Debug\netcoreapp3.1\03. Wizard Poker.runtimeconfig.json
+D:\C# Fundamentals\Exam Preparation\03. Wizard Poker\bin\Debug\netcoreapp3.1\03. Wizard Poker.runtimeconfig.dev.json
+D:\C# Fundamentals\Exam Preparation\03. Wizard Poker\bin\Debug\netcoreapp3.1\03. Wizard Poker.dll
+D:\C# Fundamentals\Exam Preparation\03. Wizard Poker\bin\Debug\netcoreapp3.1\03. Wizard Poker.pdb
+D:\C# Fundamentals\Exam Preparation\03. Wizard Poker\obj\Debug\netcoreapp3.1\03. Wizard Poker.csprojAssemblyReference.cache
+D:\C# Fundamentals\Exam Preparation\03. Wizard Poker\obj\Debug\netcoreapp3.1\03. Wizard Poker.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Exam Preparation\03. Wizard Poker\obj\Debug\netcoreapp3.1\03. Wizard Poker.AssemblyInfo.cs
+D:\C# Fundamentals\Exam Preparation\03. Wizard Poker\obj\Debug\netcoreapp3.1\03. Wizard Poker.dll
+D:\C# Fundamentals\Exam Preparation\03. Wizard Poker\obj\Debug\netcoreapp3.1\03. Wizard Poker.pdb

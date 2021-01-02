@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Associative Arrays Exercises\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.exe
+D:\C# Fundamentals\Associative Arrays Exercises\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.deps.json
+D:\C# Fundamentals\Associative Arrays Exercises\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.runtimeconfig.json
+D:\C# Fundamentals\Associative Arrays Exercises\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.runtimeconfig.dev.json
+D:\C# Fundamentals\Associative Arrays Exercises\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.dll
+D:\C# Fundamentals\Associative Arrays Exercises\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.pdb
+D:\C# Fundamentals\Associative Arrays Exercises\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.csprojAssemblyReference.cache
+D:\C# Fundamentals\Associative Arrays Exercises\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Associative Arrays Exercises\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.AssemblyInfo.cs
+D:\C# Fundamentals\Associative Arrays Exercises\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.dll
+D:\C# Fundamentals\Associative Arrays Exercises\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.pdb

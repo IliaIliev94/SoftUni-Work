@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Lists Exercises\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.exe
+D:\C# Fundamentals\Lists Exercises\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.deps.json
+D:\C# Fundamentals\Lists Exercises\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.runtimeconfig.json
+D:\C# Fundamentals\Lists Exercises\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.runtimeconfig.dev.json
+D:\C# Fundamentals\Lists Exercises\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.dll
+D:\C# Fundamentals\Lists Exercises\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.pdb
+D:\C# Fundamentals\Lists Exercises\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.csprojAssemblyReference.cache
+D:\C# Fundamentals\Lists Exercises\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Lists Exercises\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.AssemblyInfo.cs
+D:\C# Fundamentals\Lists Exercises\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.dll
+D:\C# Fundamentals\Lists Exercises\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.pdb

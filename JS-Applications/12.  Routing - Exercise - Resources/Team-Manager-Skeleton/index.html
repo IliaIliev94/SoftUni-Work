@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <link rel="stylesheet" type="text/css" href="css/team.css">
+    <link rel="stylesheet" type="text/css" href="css/details.css">
+    <link rel="stylesheet" type="text/css" href="./node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <script src="./node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="./node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="./node_modules/handlebars/dist/handlebars.min.js"></script>
+    <script src="./node_modules/sammy/lib/sammy.js"></script>
+    <script src="./node_modules/sammy/lib/plugins/sammy.handlebars.js"></script>
+    <script type="module" src="scripts/app.js"></script>
+    <title>Team Managers App</title>
+  </head>
+  <body>
+    <div id="infoBox" class="notification" disabled></div>
+    <div id="errorBox" class="notification" disabled></div>
+    <div id="main">
+
+    </div>
+
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+  <script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-app.js"></script>
+
+  <!-- TODO: Add SDKs for Firebase products that you want to use
+      https://firebase.google.com/docs/web/setup#available-libraries -->
+  <script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-analytics.js"></script>
+  
+  <script src="https://www.gstatic.com/firebasejs/8.0.2/firebase-auth.js"></script>
+
+
+  <script>
+    // Your web app's Firebase configuration
+    // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+    var firebaseConfig = {
+      apiKey: "AIzaSyD46dyd4YuelIk0QUC_k3Q9cEcPFk1YhzQ",
+      authDomain: "team-manager-50fc6.firebaseapp.com",
+      databaseURL: "https://team-manager-50fc6.firebaseio.com",
+      projectId: "team-manager-50fc6",
+      storageBucket: "team-manager-50fc6.appspot.com",
+      messagingSenderId: "842576675771",
+      appId: "1:842576675771:web:37a12c1d780bfc2b93fa9e",
+      measurementId: "G-9X29M38L1B"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+    firebase.analytics();
+  </script>
+  </body>
+</html>

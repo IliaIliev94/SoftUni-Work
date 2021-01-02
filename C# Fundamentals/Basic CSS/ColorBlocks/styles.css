@@ -1,0 +1,33 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 50px;
+}
+
+#green {
+    background-color: green;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#red {
+    background-color: red;
+}
+
+#purple {
+    background-color: purple;
+}
+
+#orange {
+    background-color: orange;
+}
+
+div {
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px;
+    margin: 20px;
+    border: solid 3px yellow;
+    display: inline;
+}

@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Data Types and Variables More Exercises\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.exe
+D:\C# Fundamentals\Data Types and Variables More Exercises\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.deps.json
+D:\C# Fundamentals\Data Types and Variables More Exercises\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.runtimeconfig.json
+D:\C# Fundamentals\Data Types and Variables More Exercises\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.runtimeconfig.dev.json
+D:\C# Fundamentals\Data Types and Variables More Exercises\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.dll
+D:\C# Fundamentals\Data Types and Variables More Exercises\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.pdb
+D:\C# Fundamentals\Data Types and Variables More Exercises\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.csprojAssemblyReference.cache
+D:\C# Fundamentals\Data Types and Variables More Exercises\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Data Types and Variables More Exercises\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.AssemblyInfo.cs
+D:\C# Fundamentals\Data Types and Variables More Exercises\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.dll
+D:\C# Fundamentals\Data Types and Variables More Exercises\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.pdb

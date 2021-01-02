@@ -1,0 +1,11 @@
+D:\C# Fundamentals\RegEx Exercise\02. Race\bin\Debug\netcoreapp3.1\02. Race.exe
+D:\C# Fundamentals\RegEx Exercise\02. Race\bin\Debug\netcoreapp3.1\02. Race.deps.json
+D:\C# Fundamentals\RegEx Exercise\02. Race\bin\Debug\netcoreapp3.1\02. Race.runtimeconfig.json
+D:\C# Fundamentals\RegEx Exercise\02. Race\bin\Debug\netcoreapp3.1\02. Race.runtimeconfig.dev.json
+D:\C# Fundamentals\RegEx Exercise\02. Race\bin\Debug\netcoreapp3.1\02. Race.dll
+D:\C# Fundamentals\RegEx Exercise\02. Race\bin\Debug\netcoreapp3.1\02. Race.pdb
+D:\C# Fundamentals\RegEx Exercise\02. Race\obj\Debug\netcoreapp3.1\02. Race.csprojAssemblyReference.cache
+D:\C# Fundamentals\RegEx Exercise\02. Race\obj\Debug\netcoreapp3.1\02. Race.AssemblyInfoInputs.cache
+D:\C# Fundamentals\RegEx Exercise\02. Race\obj\Debug\netcoreapp3.1\02. Race.AssemblyInfo.cs
+D:\C# Fundamentals\RegEx Exercise\02. Race\obj\Debug\netcoreapp3.1\02. Race.dll
+D:\C# Fundamentals\RegEx Exercise\02. Race\obj\Debug\netcoreapp3.1\02. Race.pdb

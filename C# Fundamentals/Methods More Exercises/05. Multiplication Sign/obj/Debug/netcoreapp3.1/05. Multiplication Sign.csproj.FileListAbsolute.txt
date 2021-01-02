@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Methods More Exercises\05. Multiplication Sign\bin\Debug\netcoreapp3.1\05. Multiplication Sign.exe
+D:\C# Fundamentals\Methods More Exercises\05. Multiplication Sign\bin\Debug\netcoreapp3.1\05. Multiplication Sign.deps.json
+D:\C# Fundamentals\Methods More Exercises\05. Multiplication Sign\bin\Debug\netcoreapp3.1\05. Multiplication Sign.runtimeconfig.json
+D:\C# Fundamentals\Methods More Exercises\05. Multiplication Sign\bin\Debug\netcoreapp3.1\05. Multiplication Sign.runtimeconfig.dev.json
+D:\C# Fundamentals\Methods More Exercises\05. Multiplication Sign\bin\Debug\netcoreapp3.1\05. Multiplication Sign.dll
+D:\C# Fundamentals\Methods More Exercises\05. Multiplication Sign\bin\Debug\netcoreapp3.1\05. Multiplication Sign.pdb
+D:\C# Fundamentals\Methods More Exercises\05. Multiplication Sign\obj\Debug\netcoreapp3.1\05. Multiplication Sign.csprojAssemblyReference.cache
+D:\C# Fundamentals\Methods More Exercises\05. Multiplication Sign\obj\Debug\netcoreapp3.1\05. Multiplication Sign.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Methods More Exercises\05. Multiplication Sign\obj\Debug\netcoreapp3.1\05. Multiplication Sign.AssemblyInfo.cs
+D:\C# Fundamentals\Methods More Exercises\05. Multiplication Sign\obj\Debug\netcoreapp3.1\05. Multiplication Sign.dll
+D:\C# Fundamentals\Methods More Exercises\05. Multiplication Sign\obj\Debug\netcoreapp3.1\05. Multiplication Sign.pdb

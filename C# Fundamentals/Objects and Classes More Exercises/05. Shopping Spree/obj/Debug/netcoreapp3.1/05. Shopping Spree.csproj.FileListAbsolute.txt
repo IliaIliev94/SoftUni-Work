@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Objects and Classes More Exercises\05. Shopping Spree\bin\Debug\netcoreapp3.1\05. Shopping Spree.exe
+D:\C# Fundamentals\Objects and Classes More Exercises\05. Shopping Spree\bin\Debug\netcoreapp3.1\05. Shopping Spree.deps.json
+D:\C# Fundamentals\Objects and Classes More Exercises\05. Shopping Spree\bin\Debug\netcoreapp3.1\05. Shopping Spree.runtimeconfig.json
+D:\C# Fundamentals\Objects and Classes More Exercises\05. Shopping Spree\bin\Debug\netcoreapp3.1\05. Shopping Spree.runtimeconfig.dev.json
+D:\C# Fundamentals\Objects and Classes More Exercises\05. Shopping Spree\bin\Debug\netcoreapp3.1\05. Shopping Spree.dll
+D:\C# Fundamentals\Objects and Classes More Exercises\05. Shopping Spree\bin\Debug\netcoreapp3.1\05. Shopping Spree.pdb
+D:\C# Fundamentals\Objects and Classes More Exercises\05. Shopping Spree\obj\Debug\netcoreapp3.1\05. Shopping Spree.csprojAssemblyReference.cache
+D:\C# Fundamentals\Objects and Classes More Exercises\05. Shopping Spree\obj\Debug\netcoreapp3.1\05. Shopping Spree.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Objects and Classes More Exercises\05. Shopping Spree\obj\Debug\netcoreapp3.1\05. Shopping Spree.AssemblyInfo.cs
+D:\C# Fundamentals\Objects and Classes More Exercises\05. Shopping Spree\obj\Debug\netcoreapp3.1\05. Shopping Spree.dll
+D:\C# Fundamentals\Objects and Classes More Exercises\05. Shopping Spree\obj\Debug\netcoreapp3.1\05. Shopping Spree.pdb

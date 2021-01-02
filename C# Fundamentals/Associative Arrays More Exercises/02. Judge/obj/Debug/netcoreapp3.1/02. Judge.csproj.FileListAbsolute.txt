@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Associative Arrays More Exercises\02. Judge\bin\Debug\netcoreapp3.1\02. Judge.exe
+D:\C# Fundamentals\Associative Arrays More Exercises\02. Judge\bin\Debug\netcoreapp3.1\02. Judge.deps.json
+D:\C# Fundamentals\Associative Arrays More Exercises\02. Judge\bin\Debug\netcoreapp3.1\02. Judge.runtimeconfig.json
+D:\C# Fundamentals\Associative Arrays More Exercises\02. Judge\bin\Debug\netcoreapp3.1\02. Judge.runtimeconfig.dev.json
+D:\C# Fundamentals\Associative Arrays More Exercises\02. Judge\bin\Debug\netcoreapp3.1\02. Judge.dll
+D:\C# Fundamentals\Associative Arrays More Exercises\02. Judge\bin\Debug\netcoreapp3.1\02. Judge.pdb
+D:\C# Fundamentals\Associative Arrays More Exercises\02. Judge\obj\Debug\netcoreapp3.1\02. Judge.csprojAssemblyReference.cache
+D:\C# Fundamentals\Associative Arrays More Exercises\02. Judge\obj\Debug\netcoreapp3.1\02. Judge.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Associative Arrays More Exercises\02. Judge\obj\Debug\netcoreapp3.1\02. Judge.AssemblyInfo.cs
+D:\C# Fundamentals\Associative Arrays More Exercises\02. Judge\obj\Debug\netcoreapp3.1\02. Judge.dll
+D:\C# Fundamentals\Associative Arrays More Exercises\02. Judge\obj\Debug\netcoreapp3.1\02. Judge.pdb

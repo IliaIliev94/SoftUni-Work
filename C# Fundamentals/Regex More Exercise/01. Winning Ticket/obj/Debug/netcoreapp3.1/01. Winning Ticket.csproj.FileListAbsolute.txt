@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Regex More Exercise\01. Winning Ticket\bin\Debug\netcoreapp3.1\01. Winning Ticket.exe
+D:\C# Fundamentals\Regex More Exercise\01. Winning Ticket\bin\Debug\netcoreapp3.1\01. Winning Ticket.deps.json
+D:\C# Fundamentals\Regex More Exercise\01. Winning Ticket\bin\Debug\netcoreapp3.1\01. Winning Ticket.runtimeconfig.json
+D:\C# Fundamentals\Regex More Exercise\01. Winning Ticket\bin\Debug\netcoreapp3.1\01. Winning Ticket.runtimeconfig.dev.json
+D:\C# Fundamentals\Regex More Exercise\01. Winning Ticket\bin\Debug\netcoreapp3.1\01. Winning Ticket.dll
+D:\C# Fundamentals\Regex More Exercise\01. Winning Ticket\bin\Debug\netcoreapp3.1\01. Winning Ticket.pdb
+D:\C# Fundamentals\Regex More Exercise\01. Winning Ticket\obj\Debug\netcoreapp3.1\01. Winning Ticket.csprojAssemblyReference.cache
+D:\C# Fundamentals\Regex More Exercise\01. Winning Ticket\obj\Debug\netcoreapp3.1\01. Winning Ticket.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Regex More Exercise\01. Winning Ticket\obj\Debug\netcoreapp3.1\01. Winning Ticket.AssemblyInfo.cs
+D:\C# Fundamentals\Regex More Exercise\01. Winning Ticket\obj\Debug\netcoreapp3.1\01. Winning Ticket.dll
+D:\C# Fundamentals\Regex More Exercise\01. Winning Ticket\obj\Debug\netcoreapp3.1\01. Winning Ticket.pdb

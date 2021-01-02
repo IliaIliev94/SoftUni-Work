@@ -1,0 +1,11 @@
+D:\C# Fundamentals\RegEx Exercise\04. Star Enigma\bin\Debug\netcoreapp3.1\04. Star Enigma.exe
+D:\C# Fundamentals\RegEx Exercise\04. Star Enigma\bin\Debug\netcoreapp3.1\04. Star Enigma.deps.json
+D:\C# Fundamentals\RegEx Exercise\04. Star Enigma\bin\Debug\netcoreapp3.1\04. Star Enigma.runtimeconfig.json
+D:\C# Fundamentals\RegEx Exercise\04. Star Enigma\bin\Debug\netcoreapp3.1\04. Star Enigma.runtimeconfig.dev.json
+D:\C# Fundamentals\RegEx Exercise\04. Star Enigma\bin\Debug\netcoreapp3.1\04. Star Enigma.dll
+D:\C# Fundamentals\RegEx Exercise\04. Star Enigma\bin\Debug\netcoreapp3.1\04. Star Enigma.pdb
+D:\C# Fundamentals\RegEx Exercise\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.csprojAssemblyReference.cache
+D:\C# Fundamentals\RegEx Exercise\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.AssemblyInfoInputs.cache
+D:\C# Fundamentals\RegEx Exercise\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.AssemblyInfo.cs
+D:\C# Fundamentals\RegEx Exercise\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.dll
+D:\C# Fundamentals\RegEx Exercise\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.pdb

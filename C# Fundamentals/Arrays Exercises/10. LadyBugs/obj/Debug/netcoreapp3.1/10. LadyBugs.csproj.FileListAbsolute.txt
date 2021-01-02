@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Arrays Exercises\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.exe
+D:\C# Fundamentals\Arrays Exercises\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.deps.json
+D:\C# Fundamentals\Arrays Exercises\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.runtimeconfig.json
+D:\C# Fundamentals\Arrays Exercises\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.runtimeconfig.dev.json
+D:\C# Fundamentals\Arrays Exercises\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.dll
+D:\C# Fundamentals\Arrays Exercises\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.pdb
+D:\C# Fundamentals\Arrays Exercises\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.csprojAssemblyReference.cache
+D:\C# Fundamentals\Arrays Exercises\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Arrays Exercises\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.AssemblyInfo.cs
+D:\C# Fundamentals\Arrays Exercises\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.dll
+D:\C# Fundamentals\Arrays Exercises\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.pdb

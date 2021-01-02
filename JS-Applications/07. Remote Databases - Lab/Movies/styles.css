@@ -1,0 +1,11 @@
+.book-item {
+    cursor: pointer;
+}
+
+.book-item:hover {
+    background-color: bisque;
+}
+
+div {
+    margin-top: 2rem;
+}

@@ -1,0 +1,10 @@
+D:\C# Fundamentals\Arrays Exercises\3. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\3. Zig-Zag Arrays.exe
+D:\C# Fundamentals\Arrays Exercises\3. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\3. Zig-Zag Arrays.deps.json
+D:\C# Fundamentals\Arrays Exercises\3. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\3. Zig-Zag Arrays.runtimeconfig.json
+D:\C# Fundamentals\Arrays Exercises\3. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\3. Zig-Zag Arrays.runtimeconfig.dev.json
+D:\C# Fundamentals\Arrays Exercises\3. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\3. Zig-Zag Arrays.dll
+D:\C# Fundamentals\Arrays Exercises\3. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\3. Zig-Zag Arrays.pdb
+D:\C# Fundamentals\Arrays Exercises\3. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\3. Zig-Zag Arrays.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Arrays Exercises\3. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\3. Zig-Zag Arrays.AssemblyInfo.cs
+D:\C# Fundamentals\Arrays Exercises\3. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\3. Zig-Zag Arrays.dll
+D:\C# Fundamentals\Arrays Exercises\3. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\3. Zig-Zag Arrays.pdb

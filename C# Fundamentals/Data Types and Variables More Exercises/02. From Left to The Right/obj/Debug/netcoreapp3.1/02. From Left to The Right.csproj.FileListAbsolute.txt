@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Data Types and Variables More Exercises\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Data Types and Variables More Exercises\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.AssemblyInfo.cs
+D:\C# Fundamentals\Data Types and Variables More Exercises\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.exe
+D:\C# Fundamentals\Data Types and Variables More Exercises\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.deps.json
+D:\C# Fundamentals\Data Types and Variables More Exercises\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.runtimeconfig.json
+D:\C# Fundamentals\Data Types and Variables More Exercises\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.runtimeconfig.dev.json
+D:\C# Fundamentals\Data Types and Variables More Exercises\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.dll
+D:\C# Fundamentals\Data Types and Variables More Exercises\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.pdb
+D:\C# Fundamentals\Data Types and Variables More Exercises\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.dll
+D:\C# Fundamentals\Data Types and Variables More Exercises\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.pdb
+D:\C# Fundamentals\Data Types and Variables More Exercises\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.csprojAssemblyReference.cache

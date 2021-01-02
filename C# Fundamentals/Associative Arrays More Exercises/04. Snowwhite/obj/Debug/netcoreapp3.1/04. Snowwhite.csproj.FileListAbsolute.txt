@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Associative Arrays More Exercises\04. Snowwhite\bin\Debug\netcoreapp3.1\04. Snowwhite.exe
+D:\C# Fundamentals\Associative Arrays More Exercises\04. Snowwhite\bin\Debug\netcoreapp3.1\04. Snowwhite.deps.json
+D:\C# Fundamentals\Associative Arrays More Exercises\04. Snowwhite\bin\Debug\netcoreapp3.1\04. Snowwhite.runtimeconfig.json
+D:\C# Fundamentals\Associative Arrays More Exercises\04. Snowwhite\bin\Debug\netcoreapp3.1\04. Snowwhite.runtimeconfig.dev.json
+D:\C# Fundamentals\Associative Arrays More Exercises\04. Snowwhite\bin\Debug\netcoreapp3.1\04. Snowwhite.dll
+D:\C# Fundamentals\Associative Arrays More Exercises\04. Snowwhite\bin\Debug\netcoreapp3.1\04. Snowwhite.pdb
+D:\C# Fundamentals\Associative Arrays More Exercises\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.csprojAssemblyReference.cache
+D:\C# Fundamentals\Associative Arrays More Exercises\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Associative Arrays More Exercises\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.AssemblyInfo.cs
+D:\C# Fundamentals\Associative Arrays More Exercises\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.dll
+D:\C# Fundamentals\Associative Arrays More Exercises\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.pdb

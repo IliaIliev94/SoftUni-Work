@@ -1,0 +1,8 @@
+{
+  "name": "5. Check for Symmetry",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}

@@ -1,0 +1,21 @@
+Driver Michael is created.
+Driver Peter is created.
+SportsCar Porsche is created.
+MuscleCar Mustang is created.
+MuscleCar Corvette is created.
+Race Daytona is created.
+Driver Michael received car Porsche.
+Driver Peter received car Mustang.
+Driver Michael received car Corvette.
+Race Daytona cannot start with less than 3 participants.
+Driver Michael added in Daytona race.
+Driver Peter added in Daytona race.
+Race Daytona cannot start with less than 3 participants.
+Driver Brian is created.
+Driver Brian could not participate in race.
+SportsCar Mazda is created.
+Driver Brian received car Mazda.
+Driver Brian added in Daytona race.
+Driver Michael wins Daytona race.
+Driver Peter is second in Daytona race.
+Driver Brian is third in Daytona race.

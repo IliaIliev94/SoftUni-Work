@@ -1,0 +1,10 @@
+D:\C# Fundamentals\Final Exam\test\bin\Debug\netcoreapp3.1\test.exe
+D:\C# Fundamentals\Final Exam\test\bin\Debug\netcoreapp3.1\test.deps.json
+D:\C# Fundamentals\Final Exam\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+D:\C# Fundamentals\Final Exam\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+D:\C# Fundamentals\Final Exam\test\bin\Debug\netcoreapp3.1\test.dll
+D:\C# Fundamentals\Final Exam\test\bin\Debug\netcoreapp3.1\test.pdb
+D:\C# Fundamentals\Final Exam\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Final Exam\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+D:\C# Fundamentals\Final Exam\test\obj\Debug\netcoreapp3.1\test.dll
+D:\C# Fundamentals\Final Exam\test\obj\Debug\netcoreapp3.1\test.pdb

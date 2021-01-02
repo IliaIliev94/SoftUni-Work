@@ -1,0 +1,10 @@
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\05. Month Printer\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.exe
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\05. Month Printer\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.deps.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\05. Month Printer\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.runtimeconfig.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\05. Month Printer\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.runtimeconfig.dev.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\05. Month Printer\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\05. Month Printer\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.pdb
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\05. Month Printer\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\05. Month Printer\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.AssemblyInfo.cs
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\05. Month Printer\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\05. Month Printer\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.pdb

@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Arrays Lab\01. Days of Week\bin\Debug\netcoreapp3.1\01. Days of Week.exe
+D:\C# Fundamentals\Arrays Lab\01. Days of Week\bin\Debug\netcoreapp3.1\01. Days of Week.deps.json
+D:\C# Fundamentals\Arrays Lab\01. Days of Week\bin\Debug\netcoreapp3.1\01. Days of Week.runtimeconfig.json
+D:\C# Fundamentals\Arrays Lab\01. Days of Week\bin\Debug\netcoreapp3.1\01. Days of Week.runtimeconfig.dev.json
+D:\C# Fundamentals\Arrays Lab\01. Days of Week\bin\Debug\netcoreapp3.1\01. Days of Week.dll
+D:\C# Fundamentals\Arrays Lab\01. Days of Week\bin\Debug\netcoreapp3.1\01. Days of Week.pdb
+D:\C# Fundamentals\Arrays Lab\01. Days of Week\obj\Debug\netcoreapp3.1\01. Days of Week.csprojAssemblyReference.cache
+D:\C# Fundamentals\Arrays Lab\01. Days of Week\obj\Debug\netcoreapp3.1\01. Days of Week.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Arrays Lab\01. Days of Week\obj\Debug\netcoreapp3.1\01. Days of Week.AssemblyInfo.cs
+D:\C# Fundamentals\Arrays Lab\01. Days of Week\obj\Debug\netcoreapp3.1\01. Days of Week.dll
+D:\C# Fundamentals\Arrays Lab\01. Days of Week\obj\Debug\netcoreapp3.1\01. Days of Week.pdb

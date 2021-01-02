@@ -1,0 +1,10 @@
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.exe
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.deps.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.runtimeconfig.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.runtimeconfig.dev.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.pdb
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.AssemblyInfo.cs
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.pdb

@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops More Exercise\02. English Name of the Last Digit\bin\Debug\netcoreapp3.1\02. English Name of the Last Digit.exe
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops More Exercise\02. English Name of the Last Digit\bin\Debug\netcoreapp3.1\02. English Name of the Last Digit.deps.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops More Exercise\02. English Name of the Last Digit\bin\Debug\netcoreapp3.1\02. English Name of the Last Digit.runtimeconfig.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops More Exercise\02. English Name of the Last Digit\bin\Debug\netcoreapp3.1\02. English Name of the Last Digit.runtimeconfig.dev.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops More Exercise\02. English Name of the Last Digit\bin\Debug\netcoreapp3.1\02. English Name of the Last Digit.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops More Exercise\02. English Name of the Last Digit\bin\Debug\netcoreapp3.1\02. English Name of the Last Digit.pdb
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops More Exercise\02. English Name of the Last Digit\obj\Debug\netcoreapp3.1\02. English Name of the Last Digit.csprojAssemblyReference.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops More Exercise\02. English Name of the Last Digit\obj\Debug\netcoreapp3.1\02. English Name of the Last Digit.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops More Exercise\02. English Name of the Last Digit\obj\Debug\netcoreapp3.1\02. English Name of the Last Digit.AssemblyInfo.cs
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops More Exercise\02. English Name of the Last Digit\obj\Debug\netcoreapp3.1\02. English Name of the Last Digit.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops More Exercise\02. English Name of the Last Digit\obj\Debug\netcoreapp3.1\02. English Name of the Last Digit.pdb

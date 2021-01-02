@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.exe
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.deps.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.runtimeconfig.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.runtimeconfig.dev.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.pdb
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.csprojAssemblyReference.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.AssemblyInfo.cs
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.pdb

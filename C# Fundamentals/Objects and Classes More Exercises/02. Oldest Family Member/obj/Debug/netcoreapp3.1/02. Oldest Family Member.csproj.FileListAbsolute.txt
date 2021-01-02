@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Objects and Classes More Exercises\02. Oldest Family Member\bin\Debug\netcoreapp3.1\02. Oldest Family Member.exe
+D:\C# Fundamentals\Objects and Classes More Exercises\02. Oldest Family Member\bin\Debug\netcoreapp3.1\02. Oldest Family Member.deps.json
+D:\C# Fundamentals\Objects and Classes More Exercises\02. Oldest Family Member\bin\Debug\netcoreapp3.1\02. Oldest Family Member.runtimeconfig.json
+D:\C# Fundamentals\Objects and Classes More Exercises\02. Oldest Family Member\bin\Debug\netcoreapp3.1\02. Oldest Family Member.runtimeconfig.dev.json
+D:\C# Fundamentals\Objects and Classes More Exercises\02. Oldest Family Member\bin\Debug\netcoreapp3.1\02. Oldest Family Member.dll
+D:\C# Fundamentals\Objects and Classes More Exercises\02. Oldest Family Member\bin\Debug\netcoreapp3.1\02. Oldest Family Member.pdb
+D:\C# Fundamentals\Objects and Classes More Exercises\02. Oldest Family Member\obj\Debug\netcoreapp3.1\02. Oldest Family Member.csprojAssemblyReference.cache
+D:\C# Fundamentals\Objects and Classes More Exercises\02. Oldest Family Member\obj\Debug\netcoreapp3.1\02. Oldest Family Member.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Objects and Classes More Exercises\02. Oldest Family Member\obj\Debug\netcoreapp3.1\02. Oldest Family Member.AssemblyInfo.cs
+D:\C# Fundamentals\Objects and Classes More Exercises\02. Oldest Family Member\obj\Debug\netcoreapp3.1\02. Oldest Family Member.dll
+D:\C# Fundamentals\Objects and Classes More Exercises\02. Oldest Family Member\obj\Debug\netcoreapp3.1\02. Oldest Family Member.pdb

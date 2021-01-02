@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Final Exam\03. Heroes of Code and Logic\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic.exe
+D:\C# Fundamentals\Final Exam\03. Heroes of Code and Logic\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic.deps.json
+D:\C# Fundamentals\Final Exam\03. Heroes of Code and Logic\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic.runtimeconfig.json
+D:\C# Fundamentals\Final Exam\03. Heroes of Code and Logic\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic.runtimeconfig.dev.json
+D:\C# Fundamentals\Final Exam\03. Heroes of Code and Logic\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic.dll
+D:\C# Fundamentals\Final Exam\03. Heroes of Code and Logic\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic.pdb
+D:\C# Fundamentals\Final Exam\03. Heroes of Code and Logic\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic.csprojAssemblyReference.cache
+D:\C# Fundamentals\Final Exam\03. Heroes of Code and Logic\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Final Exam\03. Heroes of Code and Logic\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic.AssemblyInfo.cs
+D:\C# Fundamentals\Final Exam\03. Heroes of Code and Logic\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic.dll
+D:\C# Fundamentals\Final Exam\03. Heroes of Code and Logic\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic.pdb

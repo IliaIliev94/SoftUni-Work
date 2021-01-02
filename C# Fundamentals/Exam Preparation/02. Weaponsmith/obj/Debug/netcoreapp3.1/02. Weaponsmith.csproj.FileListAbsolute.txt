@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Exam Preparation\02. Weaponsmith\bin\Debug\netcoreapp3.1\02. Weaponsmith.exe
+D:\C# Fundamentals\Exam Preparation\02. Weaponsmith\bin\Debug\netcoreapp3.1\02. Weaponsmith.deps.json
+D:\C# Fundamentals\Exam Preparation\02. Weaponsmith\bin\Debug\netcoreapp3.1\02. Weaponsmith.runtimeconfig.json
+D:\C# Fundamentals\Exam Preparation\02. Weaponsmith\bin\Debug\netcoreapp3.1\02. Weaponsmith.runtimeconfig.dev.json
+D:\C# Fundamentals\Exam Preparation\02. Weaponsmith\bin\Debug\netcoreapp3.1\02. Weaponsmith.dll
+D:\C# Fundamentals\Exam Preparation\02. Weaponsmith\bin\Debug\netcoreapp3.1\02. Weaponsmith.pdb
+D:\C# Fundamentals\Exam Preparation\02. Weaponsmith\obj\Debug\netcoreapp3.1\02. Weaponsmith.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Exam Preparation\02. Weaponsmith\obj\Debug\netcoreapp3.1\02. Weaponsmith.AssemblyInfo.cs
+D:\C# Fundamentals\Exam Preparation\02. Weaponsmith\obj\Debug\netcoreapp3.1\02. Weaponsmith.dll
+D:\C# Fundamentals\Exam Preparation\02. Weaponsmith\obj\Debug\netcoreapp3.1\02. Weaponsmith.pdb
+D:\C# Fundamentals\Exam Preparation\02. Weaponsmith\obj\Debug\netcoreapp3.1\02. Weaponsmith.csprojAssemblyReference.cache

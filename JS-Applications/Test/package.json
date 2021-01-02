@@ -1,0 +1,13 @@
+{
+  "name": "Test",
+  "version": "1.0.0",
+  "dependencies": {},
+  "scripts": {
+    "start": "node calculator.js",
+    "test": "mocha Tests/**/*.test.js"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.0"
+  }
+}

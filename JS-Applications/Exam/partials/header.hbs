@@ -1,0 +1,31 @@
+ <nav>
+            <div class="left-container">
+                <ul>
+                    <li><a href="#/home">Home</a></li>
+                    {{#if isLoggedIn}}
+                    <li><a href="#/my-destinations">Destinations</a></li>
+                    <li><a href="#/create">Add +</a></li>
+                    {{else}}
+                    <li><a href="#/login">Login</a></li>
+                    <li><a href="#/register">Register</a></li>
+                    {{/if}}
+                </ul>
+            </div>
+            {{#if isLoggedIn}}
+            <div class="right-container">
+                <span>Welcome, {{email}} |</span>
+                <a href="#/logout" class="log-out">Logout</a>
+            </div>
+            {{/if}}
+</nav>
+    <div>
+        <div class="notification loadingBox">
+            Loading …
+        </div>
+        <div class="notification infoBox">
+            Info
+        </div>
+        <div class="notification errorBox">
+            Error: destination name can't be empty!
+        </div>
+    </div>

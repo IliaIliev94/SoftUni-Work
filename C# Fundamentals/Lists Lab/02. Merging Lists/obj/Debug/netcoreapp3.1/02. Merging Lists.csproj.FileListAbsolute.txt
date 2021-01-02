@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Lists Lab\02. Merging Lists\bin\Debug\netcoreapp3.1\02. Merging Lists.exe
+D:\C# Fundamentals\Lists Lab\02. Merging Lists\bin\Debug\netcoreapp3.1\02. Merging Lists.deps.json
+D:\C# Fundamentals\Lists Lab\02. Merging Lists\bin\Debug\netcoreapp3.1\02. Merging Lists.runtimeconfig.json
+D:\C# Fundamentals\Lists Lab\02. Merging Lists\bin\Debug\netcoreapp3.1\02. Merging Lists.runtimeconfig.dev.json
+D:\C# Fundamentals\Lists Lab\02. Merging Lists\bin\Debug\netcoreapp3.1\02. Merging Lists.dll
+D:\C# Fundamentals\Lists Lab\02. Merging Lists\bin\Debug\netcoreapp3.1\02. Merging Lists.pdb
+D:\C# Fundamentals\Lists Lab\02. Merging Lists\obj\Debug\netcoreapp3.1\02. Merging Lists.csprojAssemblyReference.cache
+D:\C# Fundamentals\Lists Lab\02. Merging Lists\obj\Debug\netcoreapp3.1\02. Merging Lists.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Lists Lab\02. Merging Lists\obj\Debug\netcoreapp3.1\02. Merging Lists.AssemblyInfo.cs
+D:\C# Fundamentals\Lists Lab\02. Merging Lists\obj\Debug\netcoreapp3.1\02. Merging Lists.dll
+D:\C# Fundamentals\Lists Lab\02. Merging Lists\obj\Debug\netcoreapp3.1\02. Merging Lists.pdb

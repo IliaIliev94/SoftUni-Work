@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Text Processing Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.exe
+D:\C# Fundamentals\Text Processing Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.deps.json
+D:\C# Fundamentals\Text Processing Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.runtimeconfig.json
+D:\C# Fundamentals\Text Processing Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.runtimeconfig.dev.json
+D:\C# Fundamentals\Text Processing Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.dll
+D:\C# Fundamentals\Text Processing Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.pdb
+D:\C# Fundamentals\Text Processing Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.csprojAssemblyReference.cache
+D:\C# Fundamentals\Text Processing Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Text Processing Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.AssemblyInfo.cs
+D:\C# Fundamentals\Text Processing Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.dll
+D:\C# Fundamentals\Text Processing Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.pdb

@@ -1,0 +1,3 @@
+D:\C# Fundamentals\Final Exam Preparation\03. Inbox Manager\obj\Debug\netcoreapp3.1\03. Inbox Manager.csprojAssemblyReference.cache
+D:\C# Fundamentals\Final Exam Preparation\03. Inbox Manager\obj\Debug\netcoreapp3.1\03. Inbox Manager.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Final Exam Preparation\03. Inbox Manager\obj\Debug\netcoreapp3.1\03. Inbox Manager.AssemblyInfo.cs

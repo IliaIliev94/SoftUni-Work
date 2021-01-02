@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <ul>
+        <li></li>
+    </ul>
+    <button>Click</button>
+</head>
+<body>
+    <script>
+        const url = 'https://swapi.dev/api/people/4/';
+        const httpRequest = new XMLHttpRequest();
+        httpRequest.addEventListener('loadend', function () {
+            document.querySelector('li').innerHTML = JSON.parse(this.responseText).name;
+        });
+        httpRequest.open('GET', url);
+
+        document.querySelector('button').addEventListener('click', function () {
+            httpRequest.send();
+        });
+    </script>
+</body>
+</html>

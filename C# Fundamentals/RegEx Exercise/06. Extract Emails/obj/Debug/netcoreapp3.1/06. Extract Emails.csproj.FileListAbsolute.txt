@@ -1,0 +1,11 @@
+D:\C# Fundamentals\RegEx Exercise\06. Extract Emails\bin\Debug\netcoreapp3.1\06. Extract Emails.exe
+D:\C# Fundamentals\RegEx Exercise\06. Extract Emails\bin\Debug\netcoreapp3.1\06. Extract Emails.deps.json
+D:\C# Fundamentals\RegEx Exercise\06. Extract Emails\bin\Debug\netcoreapp3.1\06. Extract Emails.runtimeconfig.json
+D:\C# Fundamentals\RegEx Exercise\06. Extract Emails\bin\Debug\netcoreapp3.1\06. Extract Emails.runtimeconfig.dev.json
+D:\C# Fundamentals\RegEx Exercise\06. Extract Emails\bin\Debug\netcoreapp3.1\06. Extract Emails.dll
+D:\C# Fundamentals\RegEx Exercise\06. Extract Emails\bin\Debug\netcoreapp3.1\06. Extract Emails.pdb
+D:\C# Fundamentals\RegEx Exercise\06. Extract Emails\obj\Debug\netcoreapp3.1\06. Extract Emails.csprojAssemblyReference.cache
+D:\C# Fundamentals\RegEx Exercise\06. Extract Emails\obj\Debug\netcoreapp3.1\06. Extract Emails.AssemblyInfoInputs.cache
+D:\C# Fundamentals\RegEx Exercise\06. Extract Emails\obj\Debug\netcoreapp3.1\06. Extract Emails.AssemblyInfo.cs
+D:\C# Fundamentals\RegEx Exercise\06. Extract Emails\obj\Debug\netcoreapp3.1\06. Extract Emails.dll
+D:\C# Fundamentals\RegEx Exercise\06. Extract Emails\obj\Debug\netcoreapp3.1\06. Extract Emails.pdb

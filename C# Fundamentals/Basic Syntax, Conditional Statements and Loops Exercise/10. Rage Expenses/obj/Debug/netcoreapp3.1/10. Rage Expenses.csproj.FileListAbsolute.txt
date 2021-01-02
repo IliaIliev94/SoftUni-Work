@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.exe
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.deps.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.runtimeconfig.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.runtimeconfig.dev.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.pdb
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.csprojAssemblyReference.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.AssemblyInfo.cs
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.pdb

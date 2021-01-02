@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Text Processing Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.exe
+D:\C# Fundamentals\Text Processing Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.deps.json
+D:\C# Fundamentals\Text Processing Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.runtimeconfig.json
+D:\C# Fundamentals\Text Processing Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.runtimeconfig.dev.json
+D:\C# Fundamentals\Text Processing Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.dll
+D:\C# Fundamentals\Text Processing Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.pdb
+D:\C# Fundamentals\Text Processing Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.csprojAssemblyReference.cache
+D:\C# Fundamentals\Text Processing Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Text Processing Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.AssemblyInfo.cs
+D:\C# Fundamentals\Text Processing Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.dll
+D:\C# Fundamentals\Text Processing Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.pdb

@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.exe
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.deps.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.runtimeconfig.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.runtimeconfig.dev.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.pdb
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.csprojAssemblyReference.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.AssemblyInfo.cs
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.pdb

@@ -1,0 +1,10 @@
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\02. Passed\Passed\bin\Debug\netcoreapp3.1\Passed.exe
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\02. Passed\Passed\bin\Debug\netcoreapp3.1\Passed.deps.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\02. Passed\Passed\bin\Debug\netcoreapp3.1\Passed.runtimeconfig.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\02. Passed\Passed\bin\Debug\netcoreapp3.1\Passed.runtimeconfig.dev.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\02. Passed\Passed\bin\Debug\netcoreapp3.1\Passed.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\02. Passed\Passed\bin\Debug\netcoreapp3.1\Passed.pdb
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\02. Passed\Passed\obj\Debug\netcoreapp3.1\Passed.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\02. Passed\Passed\obj\Debug\netcoreapp3.1\Passed.AssemblyInfo.cs
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\02. Passed\Passed\obj\Debug\netcoreapp3.1\Passed.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\02. Passed\Passed\obj\Debug\netcoreapp3.1\Passed.pdb

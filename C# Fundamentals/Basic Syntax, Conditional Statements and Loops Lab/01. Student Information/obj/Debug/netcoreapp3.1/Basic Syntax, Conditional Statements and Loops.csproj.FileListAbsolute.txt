@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\bin\Debug\netcoreapp3.1\Basic Syntax, Conditional Statements and Loops.exe
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\bin\Debug\netcoreapp3.1\Basic Syntax, Conditional Statements and Loops.deps.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\bin\Debug\netcoreapp3.1\Basic Syntax, Conditional Statements and Loops.runtimeconfig.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\bin\Debug\netcoreapp3.1\Basic Syntax, Conditional Statements and Loops.runtimeconfig.dev.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\bin\Debug\netcoreapp3.1\Basic Syntax, Conditional Statements and Loops.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\bin\Debug\netcoreapp3.1\Basic Syntax, Conditional Statements and Loops.pdb
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\obj\Debug\netcoreapp3.1\Basic Syntax, Conditional Statements and Loops.csprojAssemblyReference.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\obj\Debug\netcoreapp3.1\Basic Syntax, Conditional Statements and Loops.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\obj\Debug\netcoreapp3.1\Basic Syntax, Conditional Statements and Loops.AssemblyInfo.cs
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\obj\Debug\netcoreapp3.1\Basic Syntax, Conditional Statements and Loops.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\obj\Debug\netcoreapp3.1\Basic Syntax, Conditional Statements and Loops.pdb

@@ -1,0 +1,26 @@
+ {{>header}}
+ <div class="offer-details">
+            <h1>{{offer.productName}}</h1>
+            <div class="info">
+                <img src="{{offer.imageUrl}}"
+                    alt="">
+                <div class="description">{{offer.description}}
+                    <br>
+                    <br>
+                    <p class="price">${{offer.price}}</p>
+                </div>
+            </div>
+            <div class="actions">
+                {{#if offer.imTheSalesman}}
+                <a href="#/edit/{{offer.offerId}}">Edit</a>
+                <a href="#/delete/{{offer.offerId}}">Delete</a>
+                {{else}}
+                {{#if offer.imInTheClientsList}}
+                    <span>You bought it</span>
+                {{else}}
+                    <a href="#/buy/{{offer.offerId}}">Buy</a>
+                {{/if}}
+                {{/if}}
+            </div>
+        </div>
+{{>footer}}

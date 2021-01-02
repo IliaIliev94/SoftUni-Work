@@ -1,0 +1,10 @@
+D:\C# Fundamentals\Data Types and Variables More Exercises\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.exe
+D:\C# Fundamentals\Data Types and Variables More Exercises\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.deps.json
+D:\C# Fundamentals\Data Types and Variables More Exercises\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.runtimeconfig.json
+D:\C# Fundamentals\Data Types and Variables More Exercises\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.runtimeconfig.dev.json
+D:\C# Fundamentals\Data Types and Variables More Exercises\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.dll
+D:\C# Fundamentals\Data Types and Variables More Exercises\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.pdb
+D:\C# Fundamentals\Data Types and Variables More Exercises\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Data Types and Variables More Exercises\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.AssemblyInfo.cs
+D:\C# Fundamentals\Data Types and Variables More Exercises\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.dll
+D:\C# Fundamentals\Data Types and Variables More Exercises\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.pdb

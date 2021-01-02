@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Data Types and Variables\Centuries to Minutes\bin\Debug\netcoreapp3.1\Centuries to Minutes.exe
+D:\C# Fundamentals\Data Types and Variables\Centuries to Minutes\bin\Debug\netcoreapp3.1\Centuries to Minutes.deps.json
+D:\C# Fundamentals\Data Types and Variables\Centuries to Minutes\bin\Debug\netcoreapp3.1\Centuries to Minutes.runtimeconfig.json
+D:\C# Fundamentals\Data Types and Variables\Centuries to Minutes\bin\Debug\netcoreapp3.1\Centuries to Minutes.runtimeconfig.dev.json
+D:\C# Fundamentals\Data Types and Variables\Centuries to Minutes\bin\Debug\netcoreapp3.1\Centuries to Minutes.dll
+D:\C# Fundamentals\Data Types and Variables\Centuries to Minutes\bin\Debug\netcoreapp3.1\Centuries to Minutes.pdb
+D:\C# Fundamentals\Data Types and Variables\Centuries to Minutes\obj\Debug\netcoreapp3.1\Centuries to Minutes.csprojAssemblyReference.cache
+D:\C# Fundamentals\Data Types and Variables\Centuries to Minutes\obj\Debug\netcoreapp3.1\Centuries to Minutes.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Data Types and Variables\Centuries to Minutes\obj\Debug\netcoreapp3.1\Centuries to Minutes.AssemblyInfo.cs
+D:\C# Fundamentals\Data Types and Variables\Centuries to Minutes\obj\Debug\netcoreapp3.1\Centuries to Minutes.dll
+D:\C# Fundamentals\Data Types and Variables\Centuries to Minutes\obj\Debug\netcoreapp3.1\Centuries to Minutes.pdb

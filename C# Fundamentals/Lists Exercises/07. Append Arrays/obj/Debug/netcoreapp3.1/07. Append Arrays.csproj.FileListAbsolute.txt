@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Lists Exercises\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.exe
+D:\C# Fundamentals\Lists Exercises\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.deps.json
+D:\C# Fundamentals\Lists Exercises\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.runtimeconfig.json
+D:\C# Fundamentals\Lists Exercises\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.runtimeconfig.dev.json
+D:\C# Fundamentals\Lists Exercises\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.dll
+D:\C# Fundamentals\Lists Exercises\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.pdb
+D:\C# Fundamentals\Lists Exercises\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Lists Exercises\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.AssemblyInfo.cs
+D:\C# Fundamentals\Lists Exercises\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.dll
+D:\C# Fundamentals\Lists Exercises\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.pdb
+D:\C# Fundamentals\Lists Exercises\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.csprojAssemblyReference.cache

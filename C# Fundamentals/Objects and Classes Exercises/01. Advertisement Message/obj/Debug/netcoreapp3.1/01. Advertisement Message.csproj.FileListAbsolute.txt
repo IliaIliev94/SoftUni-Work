@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Objects and Classes Exercises\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.exe
+D:\C# Fundamentals\Objects and Classes Exercises\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.deps.json
+D:\C# Fundamentals\Objects and Classes Exercises\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.runtimeconfig.json
+D:\C# Fundamentals\Objects and Classes Exercises\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.runtimeconfig.dev.json
+D:\C# Fundamentals\Objects and Classes Exercises\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.dll
+D:\C# Fundamentals\Objects and Classes Exercises\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.pdb
+D:\C# Fundamentals\Objects and Classes Exercises\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.csprojAssemblyReference.cache
+D:\C# Fundamentals\Objects and Classes Exercises\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Objects and Classes Exercises\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.AssemblyInfo.cs
+D:\C# Fundamentals\Objects and Classes Exercises\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.dll
+D:\C# Fundamentals\Objects and Classes Exercises\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.pdb

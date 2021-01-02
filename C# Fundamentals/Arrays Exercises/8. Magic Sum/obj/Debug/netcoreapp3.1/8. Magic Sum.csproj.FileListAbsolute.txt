@@ -1,0 +1,11 @@
+D:\C# Fundamentals\Arrays Exercises\8. Magic Sum\bin\Debug\netcoreapp3.1\8. Magic Sum.exe
+D:\C# Fundamentals\Arrays Exercises\8. Magic Sum\bin\Debug\netcoreapp3.1\8. Magic Sum.deps.json
+D:\C# Fundamentals\Arrays Exercises\8. Magic Sum\bin\Debug\netcoreapp3.1\8. Magic Sum.runtimeconfig.json
+D:\C# Fundamentals\Arrays Exercises\8. Magic Sum\bin\Debug\netcoreapp3.1\8. Magic Sum.runtimeconfig.dev.json
+D:\C# Fundamentals\Arrays Exercises\8. Magic Sum\bin\Debug\netcoreapp3.1\8. Magic Sum.dll
+D:\C# Fundamentals\Arrays Exercises\8. Magic Sum\bin\Debug\netcoreapp3.1\8. Magic Sum.pdb
+D:\C# Fundamentals\Arrays Exercises\8. Magic Sum\obj\Debug\netcoreapp3.1\8. Magic Sum.csprojAssemblyReference.cache
+D:\C# Fundamentals\Arrays Exercises\8. Magic Sum\obj\Debug\netcoreapp3.1\8. Magic Sum.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Arrays Exercises\8. Magic Sum\obj\Debug\netcoreapp3.1\8. Magic Sum.AssemblyInfo.cs
+D:\C# Fundamentals\Arrays Exercises\8. Magic Sum\obj\Debug\netcoreapp3.1\8. Magic Sum.dll
+D:\C# Fundamentals\Arrays Exercises\8. Magic Sum\obj\Debug\netcoreapp3.1\8. Magic Sum.pdb

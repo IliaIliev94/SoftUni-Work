@@ -1,0 +1,10 @@
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.exe
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.deps.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.runtimeconfig.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.runtimeconfig.dev.json
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.pdb
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.AssemblyInfo.cs
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.dll
+D:\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.pdb
