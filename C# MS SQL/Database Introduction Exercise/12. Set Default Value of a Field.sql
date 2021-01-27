@@ -1,0 +1,1 @@
+ALTER TABLE Users ADD CONSTRAINT DF_LastLoginTimeCurrentDate DEFAULT SYSDATETIME() FOR LastLoginTime

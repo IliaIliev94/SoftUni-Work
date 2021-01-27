@@ -1,0 +1,2 @@
+SELECT * FROM Employees
+	WHERE HireDate > '2002-01-01 12:34:00'

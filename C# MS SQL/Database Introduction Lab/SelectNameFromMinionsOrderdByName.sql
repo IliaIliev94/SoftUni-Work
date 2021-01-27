@@ -1,0 +1,1 @@
+Select Name from Minions ORDER BY Name

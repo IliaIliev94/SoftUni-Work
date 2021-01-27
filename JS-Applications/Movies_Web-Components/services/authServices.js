@@ -13,11 +13,13 @@ export const getUserData = () => {
         let data = JSON.parse(localStorage.getItem('userInfo'));
         return {
             isAuthenticated: Boolean(data),
+            uid: data.localId,
             email: data.email
         };
     } catch(error) {
         return {
             isAuthenticated: false,
+            uid: undefined,
             email: ''
         };
     }
