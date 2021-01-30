@@ -1,0 +1,1 @@
+SELECT SQRT(SQUARE(X2 - X1) +  SQUARE(Y2 - Y1)) AS Length FROM Lines
