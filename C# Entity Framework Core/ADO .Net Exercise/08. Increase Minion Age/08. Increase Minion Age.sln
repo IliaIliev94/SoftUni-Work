@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Increase Minion Age", "08. Increase Minion Age.csproj", "{B4B03FA9-66C4-4D1B-A788-3AD4BF5A608D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4B03FA9-66C4-4D1B-A788-3AD4BF5A608D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B03FA9-66C4-4D1B-A788-3AD4BF5A608D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B03FA9-66C4-4D1B-A788-3AD4BF5A608D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B03FA9-66C4-4D1B-A788-3AD4BF5A608D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90341ADE-F703-4329-80D5-F6F41183029D}
+	EndGlobalSection
+EndGlobal

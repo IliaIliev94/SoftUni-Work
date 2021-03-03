@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Change Town Names Casing", "05. Change Town Names Casing.csproj", "{81CDB9C7-719E-4CA4-B9DE-21883B56A0DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81CDB9C7-719E-4CA4-B9DE-21883B56A0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81CDB9C7-719E-4CA4-B9DE-21883B56A0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81CDB9C7-719E-4CA4-B9DE-21883B56A0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81CDB9C7-719E-4CA4-B9DE-21883B56A0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84E2F47C-89B8-4E02-A0BF-76C436FBDFF1}
+	EndGlobalSection
+EndGlobal

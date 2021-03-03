@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Add Minion", "04. Add Minion.csproj", "{4A886F0B-1B53-466F-A819-4FC0DCD1D52E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A886F0B-1B53-466F-A819-4FC0DCD1D52E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A886F0B-1B53-466F-A819-4FC0DCD1D52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A886F0B-1B53-466F-A819-4FC0DCD1D52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A886F0B-1B53-466F-A819-4FC0DCD1D52E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90CD4C3E-A67F-4A20-82DA-6202BA53F142}
+	EndGlobalSection
+EndGlobal

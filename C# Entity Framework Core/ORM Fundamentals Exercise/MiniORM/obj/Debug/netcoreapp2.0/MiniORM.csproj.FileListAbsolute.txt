@@ -1,0 +1,5 @@
+D:\SoftUni-Work\C# Entity Framework Core\ORM Fundamentals Exercise\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.deps.json
+D:\SoftUni-Work\C# Entity Framework Core\ORM Fundamentals Exercise\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.dll
+D:\SoftUni-Work\C# Entity Framework Core\ORM Fundamentals Exercise\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csprojAssemblyReference.cache
+D:\SoftUni-Work\C# Entity Framework Core\ORM Fundamentals Exercise\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfoInputs.cache
+D:\SoftUni-Work\C# Entity Framework Core\ORM Fundamentals Exercise\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfo.cs

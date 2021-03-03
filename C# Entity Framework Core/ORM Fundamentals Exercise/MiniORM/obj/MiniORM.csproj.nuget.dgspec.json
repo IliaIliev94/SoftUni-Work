@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\SoftUni-Work\\C# Entity Framework Core\\ORM Fundamentals Exercise\\MiniORM\\MiniORM.csproj": {}
+  },
+  "projects": {
+    "D:\\SoftUni-Work\\C# Entity Framework Core\\ORM Fundamentals Exercise\\MiniORM\\MiniORM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SoftUni-Work\\C# Entity Framework Core\\ORM Fundamentals Exercise\\MiniORM\\MiniORM.csproj",
+        "projectName": "MiniORM",
+        "projectPath": "D:\\SoftUni-Work\\C# Entity Framework Core\\ORM Fundamentals Exercise\\MiniORM\\MiniORM.csproj",
+        "packagesPath": "C:\\Users\\Ilia Iliev\\.nuget\\packages\\",
+        "outputPath": "D:\\SoftUni-Work\\C# Entity Framework Core\\ORM Fundamentals Exercise\\MiniORM\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ilia Iliev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[10.2.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.112\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

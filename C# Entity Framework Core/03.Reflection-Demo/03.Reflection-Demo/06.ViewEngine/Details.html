@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>C# Masterclass</title>
+    <meta charset="utf-8">
+</head>
+<body>
+    <div class="jumbotron text-center">
+        <h1>Reflection in Depth</h1>
+        <p>@DateTime.UtcNow</p>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            @foreach(var person in Model.OrderBy(x => x.LastName))
+            {
+            <div class="col-sm-4">
+                <p>@person.FirstName @person.LastName</p>
+            </div>
+            }
+        </div>
+    </div>
+</body>
+</html>
