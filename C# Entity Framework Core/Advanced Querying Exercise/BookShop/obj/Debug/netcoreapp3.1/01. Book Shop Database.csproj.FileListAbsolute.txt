@@ -1,0 +1,44 @@
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\01. Book Shop Database.exe
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\obj\Debug\netcoreapp3.1\01. Book Shop Database.csprojAssemblyReference.cache
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\obj\Debug\netcoreapp3.1\01. Book Shop Database.AssemblyInfoInputs.cache
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\obj\Debug\netcoreapp3.1\01. Book Shop Database.AssemblyInfo.cs
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\obj\Debug\netcoreapp3.1\01. Book Shop Database.csproj.CopyComplete
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\01. Book Shop Database.deps.json
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\01. Book Shop Database.runtimeconfig.json
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\01. Book Shop Database.runtimeconfig.dev.json
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\01. Book Shop Database.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\01. Book Shop Database.pdb
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\obj\Debug\netcoreapp3.1\01. Book Shop Database.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\obj\Debug\netcoreapp3.1\01. Book Shop Database.pdb
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\01. Book Shop Database\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll

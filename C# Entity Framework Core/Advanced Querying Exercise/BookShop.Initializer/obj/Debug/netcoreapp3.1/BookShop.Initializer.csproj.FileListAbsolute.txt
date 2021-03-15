@@ -1,0 +1,13 @@
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.deps.json
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.pdb
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Data.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Data.pdb
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.csprojAssemblyReference.cache
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.AssemblyInfoInputs.cache
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.AssemblyInfo.cs
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.csproj.CopyComplete
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.dll
+D:\SoftUni-Work\C# Entity Framework Core\Advanced Querying Exercise\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.pdb

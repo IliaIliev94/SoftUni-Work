@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Select Songs With Most Artists", "01. Select Songs With Most Artists.csproj", "{A3D15980-42F5-4FFA-B271-0F2187D3B456}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Get Average Length of Songs", "..\02. Get Average Length of Songs\02. Get Average Length of Songs.csproj", "{367F5056-9D18-4BC5-BDB0-231E02877FD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Get Min and Max Artist Name", "..\03. Get Min and Max Artist Name\03. Get Min and Max Artist Name.csproj", "{9893D343-A62B-45B6-A5A9-E3EB2C7C1B6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3D15980-42F5-4FFA-B271-0F2187D3B456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D15980-42F5-4FFA-B271-0F2187D3B456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D15980-42F5-4FFA-B271-0F2187D3B456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D15980-42F5-4FFA-B271-0F2187D3B456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{367F5056-9D18-4BC5-BDB0-231E02877FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{367F5056-9D18-4BC5-BDB0-231E02877FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{367F5056-9D18-4BC5-BDB0-231E02877FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{367F5056-9D18-4BC5-BDB0-231E02877FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9893D343-A62B-45B6-A5A9-E3EB2C7C1B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9893D343-A62B-45B6-A5A9-E3EB2C7C1B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9893D343-A62B-45B6-A5A9-E3EB2C7C1B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9893D343-A62B-45B6-A5A9-E3EB2C7C1B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E01CCEE-A20E-4534-9FFC-9202ECBE5FD7}
+	EndGlobalSection
+EndGlobal

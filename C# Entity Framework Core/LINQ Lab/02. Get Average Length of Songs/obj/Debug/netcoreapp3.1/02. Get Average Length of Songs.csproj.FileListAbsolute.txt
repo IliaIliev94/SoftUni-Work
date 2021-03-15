@@ -1,0 +1,65 @@
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\01. Select Songs With Most Artists.exe
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\02. Get Average Length of Songs.exe
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\02. Get Average Length of Songs.deps.json
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\02. Get Average Length of Songs.runtimeconfig.json
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\02. Get Average Length of Songs.runtimeconfig.dev.json
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\02. Get Average Length of Songs.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\02. Get Average Length of Songs.pdb
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\01. Select Songs With Most Artists.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\01. Select Songs With Most Artists.pdb
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\obj\Debug\netcoreapp3.1\02. Get Average Length of Songs.csprojAssemblyReference.cache
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\obj\Debug\netcoreapp3.1\02. Get Average Length of Songs.AssemblyInfoInputs.cache
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\obj\Debug\netcoreapp3.1\02. Get Average Length of Songs.AssemblyInfo.cs
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\obj\Debug\netcoreapp3.1\02. Get Average Length of Songs.csproj.CopyComplete
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\obj\Debug\netcoreapp3.1\02. Get Average Length of Songs.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\obj\Debug\netcoreapp3.1\02. Get Average Length of Songs.pdb
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\SoftUni-Work\C# Entity Framework Core\LINQ Lab\02. Get Average Length of Songs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
